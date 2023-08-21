@@ -3,7 +3,7 @@
 </section>
 
 <section>
-  <a href="https://github.com/ShaharAshe/LeetCode" alt="General"><p> General </p></a>
+  <a href="https://github.com/ShaharAshe/LeetCode" alt="General"><b><p> General </p></b></a>
   <ol>
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum.cpp" alt="1 - Two Sum"><li> 1 - Two Sum </li></a>
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-100-Same_Tree.cpp" alt="100 - Same Tree"><li> 100 - Same Tree </li></a>
@@ -19,7 +19,7 @@
 </section>
 <hr>
 <section>
-  <a href="https://github.com/ShaharAshe/LeetCode/tree/main/onlineAssessment" alt="Online Assessment"><p> Online Assessment </p></a>
+  <a href="https://github.com/ShaharAshe/LeetCode/tree/main/onlineAssessment" alt="Online Assessment"><b><p> Online Assessment </p></b></a>
   <ol>
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/onlineAssessment/leetcode-onlineAssessment-Fibonacci_numbers.cpp" alt="Online Assessment - Fibonacci numbers"><li> Online Assessment - Fibonacci numbers </li></a>
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/onlineAssessment/%E2%80%8F%E2%80%8Fleetcode-onlineAssessment-Candies.cpp" alt="Online Assessment - Candies"><li> ‏‏Online Assessment - Candies </li></a>
