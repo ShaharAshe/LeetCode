@@ -38,13 +38,9 @@ public class leetcode_15_3Sum
                         while(j < k && nums[k] == nums[--j]);
                         ++j;
                         --k;
-                    }
-                    else if (sum > 0)
-                    {
+                    } else if (sum < 0) {
                         ++j;
-                    }
-                    else
-                    {
+                    } else {
                         --k;
                     }
                 }
@@ -53,7 +49,7 @@ public class leetcode_15_3Sum
     }
     public static void main(String[] args)
     {
-        int[] nums = {-1, 0, 1, 2, -1, -4};
+        int[] nums = {1,-1,-1,0};
         List<List<Integer>> result = new leetcode_15_3Sum().threeSum(nums);
         System.out.println(result);
     }
