@@ -4,37 +4,37 @@
 #include <vector>
 
 using std::vector;
-bool isValidSudoku(vector<vector<char>>& board, int r, int c){
-    int i = 0;
-    if(r == board.size()-1 && c == board[r].size()-1)
-    {
-        return true;
-    }
+
+bool isValidSudoku(vector<vector<char>>& board) {
     for (size_t row = 0; row < board.size(); ++row)
     {
         for (size_t col = 0; col < board[row].size(); ++col)
         {
-            if(board[row][col] == '.')
-            {
-                if(i == 9)
+            for (size_t i = 0; i < board[row].size(); ++i)
+                if(board[row][col] == board[row][i])
                     return false;
-                    
-                board[row][col] = char(++i);
-                bool re = isValidSudoku(board, row, col);
-                board[row][col] = '.';
-                return re;
-            }
-            else{
-                bool re = isValidSudoku(board, row, col);
-                return re;
+            
+            for (size_t i = 0; i < board.size(); ++i)
+                if(board[row][col] == board[i][col])
+                    return false;
+            
+            for (size_t i = row-(row%3), step_i = 0; step_i < 3 && i < board.size(); ++i, ++step_i)
+            {
+                for (size_t j = col-(col%3), step_j = 0; step_j < 3 j < board[row].size(); ++j, ++step_j)
+                {
+                    if(board[row][col] == board[i][j])
+                        return false;
+                }
             }
         }
     }
-    return false;
+    return true;
 }
- bool isValidSudoku(vector<vector<char>>& board) {
-    return isValidSudoku(board, 0, 0);
- }
+
+bool is_in_row(int val, vector<vector<char>>& board)
+{
+
+}
 
 int main(int argc, char const *argv[])
 {
