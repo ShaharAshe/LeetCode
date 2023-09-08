@@ -26,6 +26,6 @@
   <a href="https://github.com/ShaharAshe/LeetCode/tree/main/onlineAssessment" alt="Online Assessment"><b><p> Online Assessment </p></b></a>
   <ol>
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/onlineAssessment/leetcode-onlineAssessment-Fibonacci_numbers.cpp" alt="Online Assessment - Fibonacci numbers"><li> Online Assessment - Fibonacci numbers </li></a>
-    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/onlineAssessment/%E2%80%8F%E2%80%8Fleetcode-onlineAssessment-Candies.cpp" alt="Online Assessment - Candies"><li> ‏‏Online Assessment - Candies </li></a>
+    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/onlineAssessment/%E2%80%8F%E2%80%8Fleetcode-onlineAssessment-Candies.cpp" alt="Online Assessment - Candies"><li> Online Assessment - Candies </li></a>
   </ol>
 </section>
