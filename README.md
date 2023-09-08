@@ -16,9 +16,12 @@
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/%E2%80%8F%E2%80%8Fleetcode-209-Minimum_Size_Subarray_Sum.cpp" alt="209 - Minimum Size Subarray_Sum"><li> 209 - Minimum Size Subarray Sum </li></a>
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/%E2%80%8F%E2%80%8Fleetcode-383-Ransom_Note.cpp" alt="383 - Ransom Note"><li> 383 - Ransom Note </li></a>
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode_15_3Sum.java" alt="15 - 3Sum"><li> 15 - 3Sum </li></a>
+    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-36-Valid_Sudoku.cpp" alt="36 - Valid Sudoku"><li> 36 - Valid Sudoku </li></a>
   </ol>
 </section>
+
 <hr>
+
 <section>
   <a href="https://github.com/ShaharAshe/LeetCode/tree/main/onlineAssessment" alt="Online Assessment"><b><p> Online Assessment </p></b></a>
   <ol>
