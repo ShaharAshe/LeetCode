@@ -8,8 +8,8 @@ struct ListNode {
     ListNode *next;
     ListNode(int x) : val(x), next(NULL) {}
 };
-
 // ====================================
+
 bool hasCycle(ListNode *head) {
     ListNode *temp_lazy = head,
              *temp_fast = head;
