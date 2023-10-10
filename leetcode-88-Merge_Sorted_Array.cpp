@@ -1,5 +1,6 @@
 /* -- Id = 88 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <vector>
 
@@ -136,5 +137,5 @@ int main(int argc, char const *argv[])
     std::cout << i << std::endl;    
     }
 
-    return 0;
+    return EXIT_SUCCESS;
 }

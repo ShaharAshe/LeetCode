@@ -1,5 +1,6 @@
 /* -- Id = 383 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <string>
 #include <unordered_map>
@@ -39,7 +40,7 @@ bool canConstruct(string ransomNote, string magazine) {
 int main(int argc, char const *argv[])
 {
     cout << canConstruct("aa", "aab") << endl;
-    return 0;
+    return EXIT_SUCCESS;
 }
 
 

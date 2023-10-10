@@ -1,5 +1,6 @@
 /* -- Id = 199 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -54,5 +55,5 @@ int main(int argc, char const *argv[])
         std::cout << v[i] << " ";
     std::cout << std::endl;
     
-    return 0;
+    return EXIT_SUCCESS;
 }

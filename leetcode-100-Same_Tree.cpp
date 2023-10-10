@@ -1,5 +1,6 @@
 /* -- Id = 100 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <string>
 
@@ -58,5 +59,5 @@ int main(int argc, char const *argv[])
     tr2->left = tr2->right = nullptr;
 
     std::cout << isSameTree(root1, root2) << std::endl;
-    return 0;
+    return EXIT_SUCCESS;
 }

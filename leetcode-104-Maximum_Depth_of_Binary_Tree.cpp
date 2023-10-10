@@ -1,5 +1,6 @@
 /* -- Id = 104 -- */
 
+#include <cstdlib>
 #include <iostream>
 
 // ============================================================================================
@@ -40,5 +41,5 @@ int main(int argc, char const *argv[])
 
     std::cout << maxDepth(root) << std::endl;
     
-    return 0;
+    return EXIT_SUCCESS;
 }

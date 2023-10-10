@@ -1,9 +1,10 @@
 /* -- Id = 125 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <string>
 #include <cctype>
-// #include <algorithm>
+//#include <algorithm>
 
 using std::string;
 
@@ -47,5 +48,5 @@ int main(int argc, char const *argv[])
 {
     std::cout << isPalindrome("ab2a") << std::endl;
 
-    return 0;
+    return EXIT_SUCCESS;
 }

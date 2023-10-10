@@ -1,5 +1,6 @@
 /* -- Id = 141 -- */
 
+#include <cstdlib>
 #include <iostream>
 
 // ====================================
@@ -36,7 +37,7 @@ int main(int argc, char const *argv[])
     //head->next->next->next->next = nullptr;
     
     std::cout << hasCycle(head) << std::endl;
-    return 0;
+    return EXIT_SUCCESS;
 }
 
 

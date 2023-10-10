@@ -1,5 +1,6 @@
 /* -- Id = 8 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <string>
 
@@ -43,5 +44,5 @@ int main(int argc, char const *argv[])
 {
     std::cout << myAtoi(std::string("42")) << std::endl;
     
-    return 0;
+    return EXIT_SUCCESS;
 }

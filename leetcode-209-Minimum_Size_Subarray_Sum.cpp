@@ -1,5 +1,6 @@
 /* -- Id = 209 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -33,5 +34,5 @@ int main(int argc, char const *argv[])
 {
     std::vector<int> v = {2, 3, 1, 2, 4, 3};
     std::cout << minSubArrayLen(7, v) << std::endl;
-    return 0;
+    return EXIT_SUCCESS;
 }

@@ -1,5 +1,6 @@
 /* -- Id = 1 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <vector>
 #include <map>
@@ -42,7 +43,7 @@ int main(int argc, char const *argv[])
         std::cout << i << " ";
     }
     std::cout << std::endl;
-    return 0;
+    return EXIT_SUCCESS;
 }
 
 

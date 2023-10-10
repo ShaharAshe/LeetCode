@@ -1,5 +1,6 @@
 /* -- Id = 36 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <vector>
 
@@ -69,5 +70,5 @@ int main(int argc, char const *argv[])
     
     std::cout << isValidSudoku(v) << std::endl;
     
-    return 0;
+    return EXIT_SUCCESS;
 }

@@ -1,5 +1,6 @@
 /* -- Id = 20 -- */
 
+#include <cstdlib>
 #include <iostream>
 #include <string>
 #include <stack>
@@ -33,5 +34,5 @@ int main(int argc, char const *argv[])
 {
     std::cout << isValid("]") << std::endl;
     
-    return 0;
+    return EXIT_SUCCESS;
 }
