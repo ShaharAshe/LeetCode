@@ -24,18 +24,13 @@ std::vector<int> rightSideView(TreeNode* root) {
     
     while (!q.empty()){
         v.emplace_back(q.back()->val);
-        int s = q.size();
-        for (size_t i = 0; i < s; ++i)
+        for (size_t i = 0, s = q.size(); i < s; ++i)
         {
-            int l = q.front()->val;
             if(q.front()->left)
-            {
                 q.emplace(q.front()->left);
-            }
             if (q.front()->right)
-            {
                 q.emplace(q.front()->right);
-            }
+            
             q.pop();
         }
     }
