@@ -22,6 +22,7 @@
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-141-Linked_list_cycle.cpp" alt="141 - Linked List Cycle"><li> 141 - Linked List Cycle </li></a>
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-104-Maximum_Depth_of_Binary_Tree.cpp" alt="104 - Maximum Depth of Binary Tree"><li> 104 - Maximum Depth of Binary Tree </li></a>
     <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-199-Binary_Tree_Right_Side_View.cpp" alt="199 - Binary Tree Right Side View"><li> 199 - Binary Tree Right Side View </li></a>
+    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-530-Minimum_Absolute_Difference_in_BST.cpp" alt="530 - Minimum Absolute Difference in BST"><li> 530 - Minimum Absolute Difference in BST </li></a>
   </ol>
 </section>
 
