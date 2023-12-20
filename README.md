@@ -1,5 +1,5 @@
 <section>
-  <a href="https://github.com/ShaharAshe/LeetCode" alt="LeetCode"><h1>LeetCode</h1></a>
+  <h1>LeetCode</h1>
 </section>
 
 <section>
