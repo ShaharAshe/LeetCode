@@ -232,7 +232,18 @@
                 <li> 509 - Fibonacci Number </li>
             </a>
             <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode_509_Fibonacci_Number/leetcode_509_Fibonacci_Number.c" alt="509 - Fibonacci Number - Cpp">
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode_509_Fibonacci_Number/leetcode_509_Fibonacci_Number.c" alt="509 - Fibonacci Number - C">
+                    <li> C </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-392-Is_Subsequence">
+                <li> 392 - Is Subsequence </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.cpp" alt="392 - Is Subsequence - Cpp">
                     <li> Cpp </li>
                 </a>
             </ul>
