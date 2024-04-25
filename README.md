@@ -249,6 +249,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-3-Longest_Substring_Without_Repeating_Characters">
+                <li> 3 - Longest Substring Without Repeating Characters </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-392-Is_Subsequence/leetcode-3-Longest_Substring_Without_Repeating_Characters.cpp" alt="3 - Longest Substring Without Repeating Characters - Cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
