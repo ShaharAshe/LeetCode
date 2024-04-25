@@ -5,6 +5,8 @@
 #include <unordered_map>
 
 
+/* v.1 */
+
 // int lengthOfLongestSubstring(std::string s) {
 //     int max_len = 0;
 //     std::vector<char> temp_res;
@@ -30,6 +32,35 @@
 // }
 
 
+/* v.2 */
+
+int lengthOfLongestSubstring(std::string s) {
+    int max_len = 0;
+    size_t j = 0;
+    std::unordered_map<char, int> letter_in_seq;
+    for (size_t i = 0; i < s.size(); ++i){
+        if (letter_in_seq.find(s[i]) != letter_in_seq.end())
+        {
+            size_t res_len = letter_in_seq[s[i]];
+            for (auto first = letter_in_seq.begin(), last = letter_in_seq.end(); first != last;)
+            {
+                if (first->second <= res_len){
+                    first = letter_in_seq.erase(first);
+                    --j;
+                }
+                else
+                {
+                    first->second -= (res_len+1);
+                    ++first;
+                }
+            }
+        }
+        letter_in_seq.emplace(std::make_pair(s[i], j++));
+        if (max_len < letter_in_seq.size())
+                max_len = letter_in_seq.size();
+    }
+    return max_len;
+}
 
 
 int main(){
