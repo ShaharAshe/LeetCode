@@ -259,6 +259,20 @@
                 </a>
             </ul>
         </div>
+
+
+<div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2667-Create_Hello_World_Function">
+                <li> 2667 - Create Hello World Function </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-2667-Create_Hello_World_Function/leetcode-2667-Create_Hello_World_Function.js" alt="2667 - Create Hello World Function - JavaScript">
+                    <li> JavaScript </li>
+                </a>
+            </ul>
+        </div>
+
+
         <br>
     </ol>
 </div>
