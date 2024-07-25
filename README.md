@@ -270,31 +270,24 @@
                 </a>
             </ul>
         </div>
-
         <br>
         <div>
-            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2667-Create_Hello_World_Function">
-                <li> 2667 - Create Hello World Function </li>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-27-Remove_Element">
+                <li> 27 - Remove_Element </li>
             </a>
             <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-2667-Create_Hello_World_Function/leetcode-2667-Create_Hello_World_Function.js" alt="2667 - Create Hello World Function - JavaScript">
-                    <li> JavaScript </li>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-27-Remove_Element/leetcode-27-Remove_Element.c" alt="27 - Remove_Element - c">
+                    <li> C </li>
+                </a>
+            </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-27-Remove_Element/leetcode-27-Remove_Element.cpp" alt="27 - Remove_Element - cpp">
+                    <li> Cpp </li>
                 </a>
             </ul>
         </div>
         <br>
         <div>
-            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2667-Create_Hello_World_Function">
-                <li> 2667 - Create Hello World Function </li>
-            </a>
-            <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-2667-Create_Hello_World_Function/leetcode-2667-Create_Hello_World_Function.js" alt="2667 - Create Hello World Function - JavaScript">
-                    <li> JavaScript </li>
-                </a>
-            </ul>
-        </div>
-
-
     </ol>
 </div>
 <hr>
