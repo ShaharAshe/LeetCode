@@ -288,6 +288,16 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-26-Remove_Duplicates_from_Sorted_Array">
+                <li> 26 - Remove Duplicates from Sorted Array </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-26-Remove_Duplicates_from_Sorted_Array/leetcode-26-Remove_Duplicates_from_Sorted_Array.c" alt="26 - Remove Duplicates from Sorted Array - C">
+                    <li> C </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
