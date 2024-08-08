@@ -304,7 +304,18 @@
             </a>
             <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-885-Spiral_Matrix_III/leetcode-885-Spiral_Matrix_III.cpp" alt="885 - Spiral Matrix III - cpp">
-                    <li>CPP </li>
+                    <li> CPP </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-41-First_Missing_Positive">
+                <li> 41 - First Missing Positive </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-41-First_Missing_Positive/leetcode-41-First_Missing_Positive.cpp" alt="41 - First Missing Positive - cpp">
+                    <li> CPP </li>
                 </a>
             </ul>
         </div>
