@@ -298,6 +298,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-885-Spiral_Matrix_III">
+                <li> 885 - Spiral Matrix III </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-885-Spiral_Matrix_III/leetcode-885-Spiral_Matrix_III.cpp" alt="885 - Spiral Matrix III - cpp">
+                    <li>CPP </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
