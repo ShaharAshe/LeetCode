@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstdlib>
 #include <vector>
-#include <unordered_map>
 #include <string>
 
 int numMagicSquaresInside(std::vector<std::vector<int>>& grid) {

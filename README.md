@@ -320,6 +320,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-840-Magic_Squares_In_Grid">
+                <li> 840 - Magic Squares In Grid </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-840-Magic_Squares_In_Grid/leetcode-840-Magic_Squares_In_Grid.cpp" alt="840 - Magic Squares In Grid - cpp">
+                    <li> CPP </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
