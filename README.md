@@ -358,6 +358,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1757-Recyclable_and_Low_Fat_Products">
+                <li> 1757 - Recyclable and Low Fat Products </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1757-Recyclable_and_Low_Fat_Products/leetcode-1757-Recyclable_and_Low_Fat_Products.sql" alt="1757 - Recyclable and Low Fat Products - sql">
+                    <li> Sql </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
