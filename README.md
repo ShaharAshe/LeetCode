@@ -391,6 +391,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1148-Article_Views_I">
+                <li> 1148 - Article Views I </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1148-Article_Views_I/leetcode-1148-Article_Views_I.sql" alt="1148 - Article Views I - sql">
+                    <li> Sql </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
