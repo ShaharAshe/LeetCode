@@ -402,6 +402,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1683-Invalid_Tweets">
+                <li> 1683 - Invalid Tweets </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1683-Invalid_Tweets/leetcode-1683-Invalid_Tweets.sql" alt="1683 - Invalid Tweets - sql">
+                    <li> Sql </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
