@@ -336,8 +336,13 @@
                 <li> 959 - Regions Cut By Slashes </li>
             </a>
             <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-959-Regions_Cut_By_Slashes/leetcode-959-Regions_Cut_By_Slashes.cpp" alt="959 - Regions Cut By Slashes - cpp">
-                    <li> CPP </li>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-959-Regions_Cut_By_Slashes/leetcode-959-Regions_Cut_By_Slashes-V1.cpp" alt="959 - Regions Cut By Slashes - V1 - cpp">
+                    <li> CPP - V1 </li>
+                </a>
+            </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-959-Regions_Cut_By_Slashes/leetcode-959-Regions_Cut_By_Slashes-V2.cpp" alt="959 - Regions Cut By Slashes - V2 - cpp">
+                    <li> CPP - V2 </li>
                 </a>
             </ul>
         </div>
