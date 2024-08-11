@@ -326,7 +326,7 @@
             </a>
             <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-840-Magic_Squares_In_Grid/leetcode-840-Magic_Squares_In_Grid.cpp" alt="840 - Magic Squares In Grid - cpp">
-                    <li> CPP </li>
+                    <li> Cpp </li>
                 </a>
             </ul>
         </div>
@@ -337,12 +337,23 @@
             </a>
             <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-959-Regions_Cut_By_Slashes/leetcode-959-Regions_Cut_By_Slashes-V1.cpp" alt="959 - Regions Cut By Slashes - V1 - cpp">
-                    <li> CPP - V1 </li>
+                    <li> Cpp - V1 </li>
                 </a>
             </ul>
             <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-959-Regions_Cut_By_Slashes/leetcode-959-Regions_Cut_By_Slashes-V2.cpp" alt="959 - Regions Cut By Slashes - V2 - cpp">
-                    <li> CPP - V2 </li>
+                    <li> Cpp - V2 </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1568-Minimum_Number_of_Days_to_Disconnect_Island">
+                <li> 1568 - Minimum Number of Days to Disconnect Island </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1568-Minimum_Number_of_Days_to_Disconnect_Island/leetcode-1568-Minimum_Number_of_Days_to_Disconnect_Island.py" alt="1568 - Minimum Number of Days to Disconnect Island - python">
+                    <li> Python </li>
                 </a>
             </ul>
         </div>
