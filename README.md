@@ -369,6 +369,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-584-Find_Customer_Referee">
+                <li> 584 - Find Customer Referee </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-584-Find_Customer_Referee/leetcode-584-Find_Customer_Referee.sql" alt="584 - Find Customer Referee - sql">
+                    <li> Sql </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
