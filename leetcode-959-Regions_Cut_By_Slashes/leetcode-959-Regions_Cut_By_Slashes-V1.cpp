@@ -10,12 +10,12 @@ void bfs_process(std::unordered_map<std::string,
                  bool>& visit,
                  size_t r, size_t c,
                  char cell,
-                 std::queue<std::pair<size_t, size_t>>& dfs_stack){
+                 std::queue<std::pair<size_t, size_t>>& bfs_stack){
     if(visit.find(std::to_string(r)+','+std::to_string(c)) == visit.end())
     {
         if(cell == ' ')
         {
-            dfs_stack.emplace(std::make_pair(r, c));
+            bfs_stack.emplace(std::make_pair(r, c));
         }
         visit.insert({std::to_string(r)+','+std::to_string(c), true});
     }
@@ -84,7 +84,7 @@ int regionsBySlashes(std::vector<std::string>& grid) {
     }
 
     int num_of_regions = 0;
-    std::queue<std::pair<size_t, size_t>> dfs_stack;
+    std::queue<std::pair<size_t, size_t>> bfs_stack;
     for (size_t r = 0; r<temp_grid.size();++r)
     {
         for (size_t c = 0; c<temp_grid[r].size();++c)
@@ -93,34 +93,34 @@ int regionsBySlashes(std::vector<std::string>& grid) {
             {
                 if(visit.find(std::to_string(r)+','+std::to_string(c)) == visit.end())
                 {
-                    dfs_stack.emplace(std::make_pair(r, c));
+                    bfs_stack.emplace(std::make_pair(r, c));
                     visit.insert({std::to_string(r)+','+std::to_string(c), true});
                 }
             }
-            while(!dfs_stack.empty())
+            while(!bfs_stack.empty())
             {
-                size_t temp_r = dfs_stack.front().first,
-                       temp_c = dfs_stack.front().second;
+                size_t temp_r = bfs_stack.front().first,
+                       temp_c = bfs_stack.front().second;
                 
                 if(temp_r<temp_grid.size()-1)
                 {
-                    bfs_process(visit, temp_r+1, temp_c, temp_grid[temp_r+1][temp_c], dfs_stack);
+                    bfs_process(visit, temp_r+1, temp_c, temp_grid[temp_r+1][temp_c], bfs_stack);
                 }
                 if(temp_c<temp_grid.size()-1)
                 {
-                    bfs_process(visit, temp_r, temp_c+1, temp_grid[temp_r][temp_c+1], dfs_stack);
+                    bfs_process(visit, temp_r, temp_c+1, temp_grid[temp_r][temp_c+1], bfs_stack);
                 }
                 if(temp_r>0)
                 {
-                    bfs_process(visit, temp_r-1, temp_c, temp_grid[temp_r-1][temp_c], dfs_stack);
+                    bfs_process(visit, temp_r-1, temp_c, temp_grid[temp_r-1][temp_c], bfs_stack);
                 }
                 if(temp_c>0)
                 {
-                    bfs_process(visit, temp_r, temp_c-1, temp_grid[temp_r][temp_c-1], dfs_stack);
+                    bfs_process(visit, temp_r, temp_c-1, temp_grid[temp_r][temp_c-1], bfs_stack);
                 }
 
-                dfs_stack.pop();
-                if(dfs_stack.empty())
+                bfs_stack.pop();
+                if(bfs_stack.empty())
                 {
                     ++num_of_regions;
                 }
