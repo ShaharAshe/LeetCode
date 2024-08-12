@@ -429,8 +429,13 @@
                 <li> 703 - Kth Largest Element in a Stream </li>
             </a>
             <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-703-Kth_Largest_Element_in_a_Stream/leetcode-703-Kth_Largest_Element_in_a_Stream.cpp" alt="703 - Kth Largest Element in a Stream - cpp">
-                    <li> Cpp </li>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-703-Kth_Largest_Element_in_a_Stream/leetcode-703-Kth_Largest_Element_in_a_Stream-V1.cpp" alt="703 - Kth Largest Element in a Stream - V1 - cpp">
+                    <li> Cpp - V1 </li>
+                </a>
+            </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-703-Kth_Largest_Element_in_a_Stream/leetcode-703-Kth_Largest_Element_in_a_Stream-V2.cpp" alt="703 - Kth Largest Element in a Stream - V2 - cpp">
+                    <li> Cpp - V2 </li>
                 </a>
             </ul>
         </div>
