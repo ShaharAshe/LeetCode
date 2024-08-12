@@ -473,6 +473,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1581-Customer_Who_Visited_but_Did_Not_Make_Any_Transactions">
+                <li> 1581 - Customer Who Visited but Did Not Make Any Transactions </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1581-Customer_Who_Visited_but_Did_Not_Make_Any_Transactions/leetcode-1581-Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql" alt="1581 - Customer Who Visited but Did Not Make Any Transactions - sql">
+                    <li> Sql </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
