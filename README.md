@@ -462,6 +462,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-169-Majority_Element">
+                <li> 169 - Majority Element </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-169-Majority_Element/leetcode-169-Majority_Element.py" alt="169 - Majority Element - py">
+                    <li> Python </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
