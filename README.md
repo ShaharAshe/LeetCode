@@ -451,6 +451,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1068-Product_Sales_Analysis_I">
+                <li> 1068-Product_Sales_Analysis_I </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/%E2%80%8F%E2%80%8Fleetcode-1068-Product_Sales_Analysis_I/leetcode-1068-Product_Sales_Analysis_I.sql" alt="1068 - Product Sales Analysis I - sql">
+                    <li> Sql </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
