@@ -440,6 +440,17 @@
             </ul>
         </div>
         <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1378-Replace_Employee_ID_With_The_Unique_Identifier">
+                <li> 1378 - Replace Employee ID With The Unique Identifier </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1378-Replace_Employee_ID_With_The_Unique_Identifier/leetcode-1378-Replace_Employee_ID_With_The_Unique_Identifier.sql" alt="1378 - Replace Employee ID With The Unique Identifier - sql">
+                    <li> Sql </li>
+                </a>
+            </ul>
+        </div>
+        <br>
     </ol>
 </div>
 <hr>
