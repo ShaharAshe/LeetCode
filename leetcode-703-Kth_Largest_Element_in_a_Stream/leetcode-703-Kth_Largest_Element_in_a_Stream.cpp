@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <vector>
 
+
 class KthLargest {
 public:
     KthLargest(int k, std::vector<int>& nums)
@@ -16,7 +17,7 @@ public:
                 min = x;
         }
         
-        if(max == -1)
+        if(min == INT_MAX)
         {
             min = 0;
         }
@@ -53,6 +54,7 @@ private:
     std::vector<int> m_nums;
     int m_k;
 };
+
 
 int main(){
     int k = 3;
