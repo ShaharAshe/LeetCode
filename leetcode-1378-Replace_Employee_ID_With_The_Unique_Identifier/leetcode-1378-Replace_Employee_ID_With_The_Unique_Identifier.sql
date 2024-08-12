@@ -1,2 +1,2 @@
 SELECT unique_id, name
-FROM Employees NATURAL LEFT OUTER JOIN EmployeeUNI
+FROM Employees NATURAL LEFT OUTER JOIN EmployeeUNI;
