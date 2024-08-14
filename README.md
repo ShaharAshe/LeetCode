@@ -479,6 +479,22 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1661-Average_Time_of_Process_per_Machine">
+                <li> 1661 - Average Time of Process per Machine </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1661-Average_Time_of_Process_per_Machine/leetcode-1661-Average_Time_of_Process_per_Machine-MySQL.sql" alt="1661 - Average Time of Process per Machine - MySQL - sql">
+                    <li> Sql - MySQL </li>
+                </a>
+            </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1661-Average_Time_of_Process_per_Machine/leetcode-1661-Average_Time_of_Process_per_Machine-PostgreSQL.sql" alt="1661 - Average Time of Process per Machine - PostgreSQL - sql">
+                    <li> Sql - PostgreSQL </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1683-Invalid_Tweets">
                 <li> 1683 - Invalid Tweets </li>
             </a>
