@@ -375,6 +375,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-719-Find_K-th_Smallest_Pair_Distance">
+                <li> 719 - Find K-th Smallest Pair Distance </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-719-Find_K-th_Smallest_Pair_Distance/leetcode-719-Find_K-th_Smallest_Pair_Distance.cpp" alt="719 Find K-th Smallest Pair Distance - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-840-Magic_Squares_In_Grid">
                 <li> 840 - Magic Squares In Grid </li>
             </a>
