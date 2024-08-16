@@ -36,4 +36,6 @@ int main(){
     int res = maxDistance(vec);
 
     std::cout << res << std::endl;
+
+    return EXIT_SUCCESS;
 }

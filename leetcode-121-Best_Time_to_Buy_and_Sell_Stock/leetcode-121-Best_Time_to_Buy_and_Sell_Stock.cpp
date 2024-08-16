@@ -30,4 +30,6 @@ int main(){
     int res = maxProfit(vec);
 
     std::cout << res << std::endl;
+
+    return EXIT_SUCCESS;
 }
