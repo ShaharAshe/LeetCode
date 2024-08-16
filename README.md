@@ -370,6 +370,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-624-Maximum_Distance_in_Arrays">
+                <li> 624 - Maximum Distance in Arrays </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-624-Maximum_Distance_in_Arrays/leetcode-624-Maximum_Distance_in_Arrays.cpp" alt="624 - Maximum Distance in Arrays - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-703-Kth_Largest_Element_in_a_Stream">
                 <li> 703 - Kth Largest Element in a Stream </li>
             </a>
