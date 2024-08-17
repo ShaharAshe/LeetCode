@@ -583,6 +583,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1937-Maximum_Number_of_Points_with_Cost">
+                <li> 1937 - Maximum Number of Points with Cost </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1937-Maximum_Number_of_Points_with_Cost/leetcode-1937-Maximum_Number_of_Points_with_Cost.cpp" alt="1937 - Maximum Number of Points with Cost - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2390-Removing_Stars_From_a_String" alt="2390 - Removing Stars From a String">
                 <li> 2390 - Removing Stars From a String </li>
             </a>
