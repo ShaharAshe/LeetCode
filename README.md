@@ -337,6 +337,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-264-Ugly_Number_II" alt="264 - Ugly Number II">
+                <li> 264 - Ugly Number II </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-264-Ugly_Number_II/leetcode-264-Ugly_Number_II.cpp" alt="264 - Ugly Number II - cpp">
+                    <li>Cpp</li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-383-Ransom_Note" alt="383 - Ransom Note">
                 <li> 383 - Ransom Note </li>
             </a>

@@ -1,9 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <vector>
-#include <stack>
 #include <unordered_map>
-#include <cmath>
 
 
 int nthUglyNumber(int n) {
