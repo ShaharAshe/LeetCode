@@ -139,7 +139,18 @@
             </a>
             <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-41-First_Missing_Positive/leetcode-41-First_Missing_Positive.cpp" alt="41 - First Missing Positive - cpp">
-                    <li> CPP </li>
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-45-Jump_Game_II">
+                <li> 45 - Jump Game II </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-45-Jump_Game_II/leetcode-45-Jump_Game_II.cpp" alt="45 - Jump Game II - cpp">
+                    <li> Cpp </li>
                 </a>
             </ul>
         </div>
