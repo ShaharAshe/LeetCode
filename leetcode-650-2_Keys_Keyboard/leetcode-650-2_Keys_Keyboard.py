@@ -1,5 +1,3 @@
-from math import ceil, sqrt
-
 class Solution:
     def minSteps(self, n: int) -> int:
         if(n == 1):

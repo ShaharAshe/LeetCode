@@ -436,6 +436,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-650-2_Keys_Keyboard">
+                <li> 650 - 2 Keys Keyboard </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-650-2_Keys_Keyboard/leetcode-650-2_Keys_Keyboard.py" alt="650 - 2 Keys Keyboard - python">
+                    <li> Python </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-703-Kth_Largest_Element_in_a_Stream">
                 <li> 703 - Kth Largest Element in a Stream </li>
             </a>
