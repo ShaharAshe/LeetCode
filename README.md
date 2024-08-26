@@ -381,6 +381,22 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-380-Insert_Delete_GetRandom" alt="380 - Insert Delete GetRandom">
+                <li> 380 - Insert Delete GetRandom </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-380-Insert_Delete_GetRandom/leetcode-380-Insert_Delete_GetRandom-V1.cpp" alt="Insert Delete GetRandom - V1 - cpp">
+                    <li>Cpp - V1</li>
+                </a>
+            </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-380-Insert_Delete_GetRandom/leetcode-380-Insert_Delete_GetRandom-V2.cpp" alt="380 - Insert Delete GetRandom - V2 - cpp">
+                    <li>Cpp - V2</li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-383-Ransom_Note" alt="383 - Ransom Note">
                 <li> 383 - Ransom Note </li>
             </a>
