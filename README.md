@@ -370,6 +370,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-274-H-Index" alt="274 - H-Index">
+                <li> 274 - H-Index </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-274-H-Index/leetcode-274-H-Index.cpp" alt="274 - H-Index - cpp">
+                    <li>Cpp</li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-383-Ransom_Note" alt="383 - Ransom Note">
                 <li> 383 - Ransom Note </li>
             </a>
