@@ -605,6 +605,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1514-Path_with_Maximum_Probability">
+                <li> 1514 - Path with Maximum Probability </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1514-Path_with_Maximum_Probability/leetcode-1514-Path_with_Maximum_Probability.cpp" alt="1514 - Path with Maximum Probability - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1568-Minimum_Number_of_Days_to_Disconnect_Island">
                 <li> 1568 - Minimum Number of Days to Disconnect Island </li>
             </a>
