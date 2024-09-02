@@ -676,6 +676,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1894-Find_the_Student_that_Will_Replace_the_Chalk">
+                <li> 1894 - Find the Student that Will Replace the Chalk </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1894-Find_the_Student_that_Will_Replace_the_Chalk/leetcode-1894-Find_the_Student_that_Will_Replace_the_Chalk.cpp" alt="1894 - Find the Student that Will Replace the Chalk - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1937-Maximum_Number_of_Points_with_Cost">
                 <li> 1937 - Maximum Number of Points with Cost </li>
             </a>
