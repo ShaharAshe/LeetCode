@@ -698,6 +698,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1945-Sum_of_Digits_of_String_After_Convert">
+                <li> 1945 - Sum of Digits of String After Convert </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1945-Sum_of_Digits_of_String_After_Convert/leetcode-1945-Sum_of_Digits_of_String_After_Convert.cpp" alt="1945 - Sum of Digits of String After Convert - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2022-Convert_1D_Array_Into_2D_Array">
                 <li> 2022 - Convert 1D Array Into 2D Array </li>
             </a>
