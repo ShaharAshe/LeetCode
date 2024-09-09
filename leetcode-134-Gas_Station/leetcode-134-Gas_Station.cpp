@@ -29,6 +29,7 @@ int canCompleteCircuit(std::vector<int>& gas, std::vector<int>& cost) {
             cur_gas_cost += gas[cur_i];
             cur_gas_cost -= cur_cost;
             if(cur_gas_cost<0) {
+                first_i+=i;
                 break;
             } else if(((cur_i+1)%gas.size()) == first_i){
                 return first_i;
