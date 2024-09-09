@@ -632,6 +632,22 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1280-Students_and_Examinations">
+                <li> 1280 - Students and Examinations </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1280-Students_and_Examinations/leetcode-1280-Students_and_Examinations-MySQL.sql" alt="1280 - Students and Examinations - MySQL - sql">
+                    <li> Sql - MySQL </li>
+                </a>
+            </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1280-Students_and_Examinations/leetcode-1280-Students_and_Examinations-PostgreSQL.sql" alt="1280 - Students and Examinations - PostgreSQL - sql">
+                    <li> Sql - PostgreSQL </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1378-Replace_Employee_ID_With_The_Unique_Identifier">
                 <li> 1378 - Replace Employee ID With The Unique Identifier </li>
             </a>
