@@ -145,6 +145,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-42-Trapping_Rain_Water">
+                <li> 42 - Trapping Rain Water </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-42-Trapping_Rain_Water/leetcode-42-Trapping_Rain_Water.cpp" alt="42 - Trapping Rain Water - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-45-Jump_Game_II">
                 <li> 45 - Jump Game II </li>
             </a>
