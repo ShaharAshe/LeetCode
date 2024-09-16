@@ -200,6 +200,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-58-Length_of_Last_Word">
+                <li> 58 - Length of Last Word </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-58-Length_of_Last_Word/leetcode-58-Length_of_Last_Word.cpp" alt="58 - Length of Last Word - cpp">
+                    <li> CPP </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-80-Remove_Duplicates_from_Sorted_Array_II">
                 <li> 80 - Remove Duplicates from Sorted Array II </li>
             </a>
