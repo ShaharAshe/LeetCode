@@ -82,6 +82,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-14-Longest_Common_Prefix">
+                <li> 14 - Longest Common Prefix </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-14-Longest_Common_Prefix/leetcode-14-Longest_Common_Prefix.cpp" alt="14 - Longest Common Prefix - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode_15_3Sum" alt="15 - 3Sum">
                 <li> 15 - 3Sum </li>
             </a>
