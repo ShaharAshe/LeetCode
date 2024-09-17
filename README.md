@@ -107,11 +107,11 @@
         </div>
         <br>
         <div>
-            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode_15_3Sum" alt="15 - 3Sum">
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-15-3Sum" alt="15 - 3Sum">
                 <li> 15 - 3Sum </li>
             </a>
             <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode_15_3Sum/leetcode_15_3Sum.java" alt="15 - 3Sum - Java">
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.java" alt="15 - 3Sum - Java">
                     <li> Java </li>
                 </a>
             </ul>
