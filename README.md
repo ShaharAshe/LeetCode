@@ -159,6 +159,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-28-Find_the_Index_of_the_First_Occurrence_in_a_String">
+                <li> 28 - Find the Index of the First Occurrence in a String </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-28-Find_the_Index_of_the_First_Occurrence_in_a_String/leetcode-28-Find_the_Index_of_the_First_Occurrence_in_a_String.cpp" alt="28 - Find the Index of the First Occurrence in a String - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-36-Valid_Sudoku" alt="36 - Valid Sudoku">
                 <li> 36 - Valid Sudoku </li>
             </a>
