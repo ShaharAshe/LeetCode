@@ -450,11 +450,11 @@
         </div>
         <br>
         <div>
-            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode_228_SummaryRanges" alt="228 - Summary Ranges">
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-228-SummaryRanges" alt="228 - Summary Ranges">
                 <li> 228 - Summary Ranges </li>
             </a>
             <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode_228_SummaryRanges/leetcode_228_SummaryRanges.java" alt="228 - Summary Ranges - Java">
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-228-SummaryRanges/leetcode_228_SummaryRanges.java" alt="228 - Summary Ranges - Java">
                     <li>Java</li>
                 </a>
             </ul>
