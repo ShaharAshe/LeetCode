@@ -38,6 +38,20 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-6-Zigzag_Conversion" alt="6 - Zigzag Conversion">
+                <li> 6 - Zigzag Conversion </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-6-Zigzag_Conversion/leetcode-6-Zigzag_Conversion-V1.cpp" alt="6 - Zigzag Conversion - cpp - V1">
+                    <li> Cpp - V1 </li>
+                </a>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-6-Zigzag_Conversion/leetcode-6-Zigzag_Conversion-V2.cpp" alt="6 - Zigzag Conversion - Cpp - V2">
+                    <li> Cpp - V2 </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-8-String_to_Integer" alt="8 - String to Integer">
                 <li> 8 - String to Integer </li>
             </a>
