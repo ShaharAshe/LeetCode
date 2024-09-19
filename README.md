@@ -247,6 +247,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-68-Text_Justification">
+                <li> 68 - Text Justification </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-68-Text_Justification/leetcode-68-Text_Justification.cpp" alt="68 - Text Justification - cpp">
+                    <li> CPP </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-80-Remove_Duplicates_from_Sorted_Array_II">
                 <li> 80 - Remove Duplicates from Sorted Array II </li>
             </a>
