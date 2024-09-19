@@ -343,6 +343,11 @@
                     <li> Cpp </li>
                 </a>
             </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-125-Valid_Palindrome/leetcode-125-Valid_Palindrome.py" alt="125 - Valid Palindrome - py">
+                    <li> Python </li>
+                </a>
+            </ul>
         </div>
         <br>
         <div>
