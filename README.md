@@ -581,6 +581,22 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-570-Managers_with_at_Least_5_Direct_Reports">
+                <li> 570 - Managers with at Least 5 Direct Reports </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-570-Managers_with_at_Least_5_Direct_Reports/leetcode-570-Managers_with_at_Least_5_Direct_Reports-MySQL.sql" alt="570 - Managers with at Least 5 Direct Reports - MySQL - sql">
+                    <li> Sql - MySQL </li>
+                </a>
+            </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-570-Managers_with_at_Least_5_Direct_Reports/leetcode-570-Managers_with_at_Least_5_Direct_Reports-PostgreSQL.sql" alt="570 - Managers with at Least 5 Direct Reports - PostgreSQL - sql">
+                    <li> Sql - PostgreSQL </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-577-Employee_Bonus">
                 <li> 577 - Employee Bonus </li>
             </a>
