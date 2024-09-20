@@ -406,6 +406,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-167-Two_Sum_II_-_Input_Array_Is_Sorted" alt="167 - Two Sum II - Input Array Is Sorted">
+                <li> 167 - Two Sum II - Input Array Is Sorted </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-167-Two_Sum_II_-_Input_Array_Is_Sorted/leetcode-167-Two_Sum_II_-_Input_Array_Is_Sorted.cpp" alt="167 - Two Sum II - Input Array Is Sorted - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-169-Majority_Element">
                 <li> 169 - Majority Element </li>
             </a>
