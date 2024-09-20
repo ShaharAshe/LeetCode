@@ -556,6 +556,11 @@
                     <li> Cpp </li>
                 </a>
             </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.py" alt="392 - Is Subsequence - python">
+                    <li> Python </li>
+                </a>
+            </ul>
         </div>
         <br>
         <div>
