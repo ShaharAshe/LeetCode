@@ -35,6 +35,11 @@
                     <li> Cpp </li>
                 </a>
             </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.py" alt="3 - Longest Substring Without Repeating Characters - Python">
+                    <li> Python </li>
+                </a>
+            </ul>
         </div>
         <br>
         <div>
