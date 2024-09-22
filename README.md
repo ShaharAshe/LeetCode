@@ -126,6 +126,11 @@
                     <li> Java </li>
                 </a>
             </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.py" alt="15 - 3Sum - Python">
+                    <li> Python </li>
+                </a>
+            </ul>
         </div>
         <br>
         <div>
