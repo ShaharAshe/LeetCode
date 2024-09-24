@@ -191,6 +191,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-30-Substring_with_Concatenation_of_All_Words">
+                <li> 30 - Substring with Concatenation of All Words </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-30-Substring_with_Concatenation_of_All_Words/leetcode-30-Substring_with_Concatenation_of_All_Words.cpp" alt="30 - Substring with Concatenation of All Words - cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-36-Valid_Sudoku" alt="36 - Valid Sudoku">
                 <li> 36 - Valid Sudoku </li>
             </a>
