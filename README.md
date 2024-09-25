@@ -262,7 +262,7 @@
             </a>
             <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-55-Jump_Game/leetcode-55-Jump_Game.cpp" alt="55 - Jump Game - cpp">
-                    <li> CPP </li>
+                    <li> Cpp </li>
                 </a>
             </ul>
         </div>
@@ -273,7 +273,7 @@
             </a>
             <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-58-Length_of_Last_Word/leetcode-58-Length_of_Last_Word.cpp" alt="58 - Length of Last Word - cpp">
-                    <li> CPP </li>
+                    <li> Cpp </li>
                 </a>
             </ul>
         </div>
@@ -284,7 +284,18 @@
             </a>
             <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-68-Text_Justification/leetcode-68-Text_Justification.cpp" alt="68 - Text Justification - cpp">
-                    <li> CPP </li>
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-76-Minimum_Window_Substring">
+                <li> 76 - Minimum Window Substring </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-76-Minimum_Window_Substring/leetcode-76-Minimum_Window_Substring.cpp" alt="76 - Minimum Window Substring - cpp">
+                    <li> Cpp </li>
                 </a>
             </ul>
         </div>
