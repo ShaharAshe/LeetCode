@@ -28,6 +28,8 @@ class Solution:
             appear_r:dict = {}
             appear_c:dict = {}
             appear_b:dict = {}
+            help_calc_r = (r*3)
+            help_calc_c = (r//3)*3
             for c in range(len(board[r])):
                 if board[r][c] != '.':
                     if board[r][c] in appear_r:
@@ -39,12 +41,12 @@ class Solution:
                         return False
                     appear_c[board[c][r]] = True
                 
-                m:int = ((r*3)+(c//3))%9
-                s:int = (c%3)+((r//3)*3)
-                if board[m][s] != '.':
-                    if board[m][s] in appear_b:
+                b_r = (help_calc_r+(c//3))%9
+                b_c = (c%3)+help_calc_c
+                if board[b_r][b_c] != '.':
+                    if board[b_r][b_c] in appear_b:
                         return False
-                    appear_b[board[m][s]] = True
+                    appear_b[board[b_r][b_c]] = True
         return True
 
 
