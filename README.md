@@ -210,6 +210,11 @@
                     <li> Cpp </li>
                 </a>
             </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-36-Valid_Sudoku/leetcode-36-Valid_Sudoku.py" alt="36 - Valid Sudoku - Python">
+                    <li> Python </li>
+                </a>
+            </ul>
         </div>
         <br>
         <div>
