@@ -498,6 +498,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-195-Tenth_Line" alt="195 - Tenth Line">
+                <li> 195 - Tenth Line </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-195-Tenth_Line/leetcode-195-Tenth_Line.sh" alt="195 - Tenth Line - Bash">
+                    <li> Bash </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-197-Rising_Temperature">
                 <li> 197 - Rising Temperature </li>
             </a>
