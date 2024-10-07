@@ -316,6 +316,22 @@
             </ul>
         </div>
         <br>
+
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-20-Valid_Parentheses" alt="20 - Valid Parentheses">
+                <li> 20 - Valid Parentheses </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses.cpp" alt="20 - Valid Parentheses - Cpp - V1">
+                    <li> Cpp - V1 </li>
+                </a>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses_v2.cpp" alt="20 - Valid Parentheses - Cpp - V2">
+                    <li> Cpp - V2 </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+
         <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-76-Minimum_Window_Substring">
                 <li> 76 - Minimum Window Substring </li>
