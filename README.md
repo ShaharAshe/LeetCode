@@ -632,6 +632,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-289-Game_of_Life" alt="289 - Game of Life">
+                <li> 289 - Game of Life </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-289-Game_of_Life/leetcode-289-Game_of_Life.cpp" alt="289 - Game of Life - Cpp">
+                    <li>Cpp</li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-380-Insert_Delete_GetRandom" alt="380 - Insert Delete GetRandom">
                 <li> 380 - Insert Delete GetRandom </li>
             </a>
