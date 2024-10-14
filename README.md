@@ -667,6 +667,11 @@
                     <li> Cpp </li>
                 </a>
             </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-383-Ransom_Note/leetcode-383-Ransom_Note.py" alt="383 - Ransom Note - Python">
+                    <li> Python </li>
+                </a>
+            </ul>
         </div>
         <br>
         <div>
