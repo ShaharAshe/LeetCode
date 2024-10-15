@@ -153,6 +153,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-21-Merge_Two_Sorted_Lists">
+                <li> 21 - Merge Two Sorted Lists </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-21-Merge_Two_Sorted_Lists/leetcode-21-Merge_Two_Sorted_Lists.cpp" alt="21 - Merge Two Sorted Lists - Cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-26-Remove_Duplicates_from_Sorted_Array">
                 <li> 26 - Remove Duplicates from Sorted Array </li>
             </a>
