@@ -583,6 +583,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-205-Isomorphic_Strings" alt="205 - Isomorphic Strings">
+                <li> 205 - Isomorphic Strings </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-205-Isomorphic_Strings/leetcode-205-Isomorphic_Strings.cpp" alt="205 - Isomorphic Strings - Cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-209-Minimum_Size_Subarray_Sum" alt="209 - Minimum Size Subarray_Sum">
                 <li> 209 - Minimum Size Subarray Sum </li>
             </a>
