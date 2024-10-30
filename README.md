@@ -632,6 +632,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-242-Valid_Anagram" alt="242 - Valid Anagram">
+                <li> 242 - Valid Anagram </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-242-Valid_Anagram/leetcode-242-Valid_Anagram.py" alt="242 - Valid Anagram - Python">
+                    <li>Python</li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-264-Ugly_Number_II" alt="264 - Ugly Number II">
                 <li> 264 - Ugly Number II </li>
             </a>
