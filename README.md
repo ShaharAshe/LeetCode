@@ -665,6 +665,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-290-Word_Pattern" alt="290 - Word Pattern">
+                <li> 290 - Word Pattern </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-290-Word_Pattern/leetcode-290-Word_Pattern.cpp" alt="290 - Word Pattern - Cpp">
+                    <li>Cpp</li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-380-Insert_Delete_GetRandom" alt="380 - Insert Delete GetRandom">
                 <li> 380 - Insert Delete GetRandom </li>
             </a>
