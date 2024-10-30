@@ -13,6 +13,11 @@
                     <li> Cpp </li>
                 </a>
             </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.py" alt="1 - Two Sum - Python">
+                    <li> Python </li>
+                </a>
+            </ul>
         </div>
         <br>
         <div>
