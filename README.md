@@ -599,6 +599,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-202-Happy_Number" alt="202 - Happy Number">
+                <li> 202 - Happy Number </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-202-Happy_Number/leetcode-202-Happy_Number.cpp" alt="202 - Happy Number - Cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-205-Isomorphic_Strings" alt="205 - Isomorphic Strings">
                 <li> 205 - Isomorphic Strings </li>
             </a>
