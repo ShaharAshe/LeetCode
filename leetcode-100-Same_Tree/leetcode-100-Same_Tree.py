@@ -12,9 +12,7 @@ class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         if not p and not q:
             return True
-        if not p or not q:
-            return False
-        if p.val != q.val:
+        if not p or not q or p.val != q.val:
             return False
         v1 = self.isSameTree(p.left, q.left)
         v2 = self.isSameTree(p.right, q.right)
