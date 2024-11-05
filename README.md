@@ -410,6 +410,11 @@
                     <li> Cpp </li>
                 </a>
             </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-100-Same_Tree/leetcode-100-Same_Tree.py" alt="100 - Same Tree - Python">
+                    <li> Python </li>
+                </a>
+            </ul>
         </div>
         <br>
         <div>
