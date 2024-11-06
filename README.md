@@ -467,6 +467,17 @@
         </div>
         <br>
         <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-128-Longest_Consecutive_Sequence" alt="128 - Longest Consecutive Sequence">
+                <li> 128 - Longest Consecutive Sequence </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-128-Longest_Consecutive_Sequence/leetcode-128-Longest_Consecutive_Sequence.cpp" alt="128 - Longest Consecutive Sequence - Cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
             <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-134-Gas_Station" alt="134 - Gas Station">
                 <li> 134 - Gas Station </li>
             </a>
