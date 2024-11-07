@@ -14,6 +14,11 @@
                 </a>
             </ul>
             <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs" alt="1 - Two Sum - C#">
+                    <li> C# </li>
+                </a>
+            </ul>
+            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.py" alt="1 - Two Sum - Python">
                     <li> Python </li>
                 </a>
