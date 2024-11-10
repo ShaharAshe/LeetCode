@@ -12,13 +12,9 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp" alt="1 - Two Sum - Cpp">
                     <li> Cpp </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs" alt="1 - Two Sum - C#">
                     <li> C# </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.py" alt="1 - Two Sum - Python">
                     <li> Python </li>
                 </a>
@@ -44,8 +40,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.cpp" alt="3 - Longest Substring Without Repeating Characters - Cpp">
                     <li> Cpp </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.py" alt="3 - Longest Substring Without Repeating Characters - Python">
                     <li> Python </li>
                 </a>
@@ -140,8 +134,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.java" alt="15 - 3Sum - Java">
                     <li> Java </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.py" alt="15 - 3Sum - Python">
                     <li> Python </li>
                 </a>
@@ -192,8 +184,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-27-Remove_Element/leetcode-27-Remove_Element.c" alt="27 - Remove_Element - c">
                     <li> C </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-27-Remove_Element/leetcode-27-Remove_Element.cpp" alt="27 - Remove_Element - cpp">
                     <li> Cpp </li>
                 </a>
@@ -230,8 +220,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-36-Valid_Sudoku/leetcode-36-Valid_Sudoku.cpp" alt="36 - Valid Sudoku - Cpp">
                     <li> Cpp </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-36-Valid_Sudoku/leetcode-36-Valid_Sudoku.py" alt="36 - Valid Sudoku - Python">
                     <li> Python </li>
                 </a>
@@ -414,8 +402,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-100-Same_Tree/leetcode-100-Same_Tree.cpp" alt="100 - Same Tree - Cpp">
                     <li> Cpp </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-100-Same_Tree/leetcode-100-Same_Tree.py" alt="100 - Same Tree - Python">
                     <li> Python </li>
                 </a>
@@ -463,8 +449,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-125-Valid_Palindrome/leetcode-125-Valid_Palindrome.cpp" alt="125 - Valid Palindrome - Cpp">
                     <li> Cpp </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-125-Valid_Palindrome/leetcode-125-Valid_Palindrome.py" alt="125 - Valid Palindrome - py">
                     <li> Python </li>
                 </a>
@@ -556,8 +540,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-169-Majority_Element/leetcode-169-Majority_Element.cpp" alt="169 - Majority Element - Cpp">
                     <li> Cpp </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-169-Majority_Element/leetcode-169-Majority_Element.py" alt="169 - Majority Element - Python">
                     <li> Python </li>
                 </a>
@@ -594,8 +576,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-197-Rising_Temperature/leetcode-197-Rising_Temperature-MySQL.sql" alt="197 - Rising Temperature - MySQL - sql">
                     <li> Sql - MySQL </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-197-Rising_Temperature/leetcode-197-Rising_Temperature-PostgreSQL.sql" alt="197 - Rising Temperature - PostgreSQL - sql">
                     <li> Sql - PostgreSQL </li>
                 </a>
@@ -654,8 +634,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-209-Minimum_Size_Subarray_Sum/leetcode-209-Minimum_Size_Subarray_Sum.cpp" alt="209 - Minimum Size Subarray_Sum - Cpp">
                     <li> Cpp </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-209-Minimum_Size_Subarray_Sum/leetcode-209-Minimum_Size_Subarray_Sum.py" alt="209 - Minimum_Size Subarray Sum - Python">
                     <li> Python </li>
                 </a>
@@ -678,6 +656,9 @@
                 <li> 228 - Summary Ranges </li>
             </a>
             <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-228-SummaryRanges/leetcode-228-SummaryRanges.cpp" alt="228 - Summary Ranges - Cpp">
+                    <li>Cpp</li>
+                </a>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-228-SummaryRanges/leetcode_228_SummaryRanges.java" alt="228 - Summary Ranges - Java">
                     <li>Java</li>
                 </a>
@@ -772,8 +753,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-380-Insert_Delete_GetRandom/leetcode-380-Insert_Delete_GetRandom-V1.cpp" alt="Insert Delete GetRandom - V1 - cpp">
                     <li>Cpp - V1</li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-380-Insert_Delete_GetRandom/leetcode-380-Insert_Delete_GetRandom-V2.cpp" alt="380 - Insert Delete GetRandom - V2 - cpp">
                     <li>Cpp - V2</li>
                 </a>
@@ -788,8 +767,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-383-Ransom_Note/leetcode-383-Ransom_Note.cpp" alt="383 - Ransom Note - Cpp">
                     <li> Cpp </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-383-Ransom_Note/leetcode-383-Ransom_Note.py" alt="383 - Ransom Note - Python">
                     <li> Python </li>
                 </a>
@@ -804,8 +781,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.cpp" alt="392 - Is Subsequence - Cpp">
                     <li> Cpp </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.py" alt="392 - Is Subsequence - python">
                     <li> Python </li>
                 </a>
@@ -842,8 +817,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-570-Managers_with_at_Least_5_Direct_Reports/leetcode-570-Managers_with_at_Least_5_Direct_Reports-MySQL.sql" alt="570 - Managers with at Least 5 Direct Reports - MySQL - sql">
                     <li> Sql - MySQL </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-570-Managers_with_at_Least_5_Direct_Reports/leetcode-570-Managers_with_at_Least_5_Direct_Reports-PostgreSQL.sql" alt="570 - Managers with at Least 5 Direct Reports - PostgreSQL - sql">
                     <li> Sql - PostgreSQL </li>
                 </a>
@@ -858,8 +831,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-577-Employee_Bonus/leetcode-577-Employee_Bonus-MySQL.sql" alt="577 - Employee Bonus - MySQL - sql">
                     <li> Sql - MySQL </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-577-Employee_Bonus/leetcode-577-Employee_Bonus-PostgreSQL.sql" alt="577 - Employee_Bonus - PostgreSQL - sql">
                     <li> Sql - PostgreSQL </li>
                 </a>
@@ -929,8 +900,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-703-Kth_Largest_Element_in_a_Stream/leetcode-703-Kth_Largest_Element_in_a_Stream-V1.cpp" alt="703 - Kth Largest Element in a Stream - V1 - cpp">
                     <li> Cpp - V1 </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-703-Kth_Largest_Element_in_a_Stream/leetcode-703-Kth_Largest_Element_in_a_Stream-V2.cpp" alt="703 - Kth Largest Element in a Stream - V2 - cpp">
                     <li> Cpp - V2 </li>
                 </a>
@@ -989,8 +958,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-959-Regions_Cut_By_Slashes/leetcode-959-Regions_Cut_By_Slashes-V1.cpp" alt="959 - Regions Cut By Slashes - V1 - cpp">
                     <li> Cpp - V1 </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-959-Regions_Cut_By_Slashes/leetcode-959-Regions_Cut_By_Slashes-V2.cpp" alt="959 - Regions Cut By Slashes - V2 - cpp">
                     <li> Cpp - V2 </li>
                 </a>
@@ -1027,8 +994,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1280-Students_and_Examinations/leetcode-1280-Students_and_Examinations-MySQL.sql" alt="1280 - Students and Examinations - MySQL - sql">
                     <li> Sql - MySQL </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1280-Students_and_Examinations/leetcode-1280-Students_and_Examinations-PostgreSQL.sql" alt="1280 - Students and Examinations - PostgreSQL - sql">
                     <li> Sql - PostgreSQL </li>
                 </a>
@@ -1087,8 +1052,6 @@
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1661-Average_Time_of_Process_per_Machine/leetcode-1661-Average_Time_of_Process_per_Machine-MySQL.sql" alt="1661 - Average Time of Process per Machine - MySQL - sql">
                     <li> Sql - MySQL </li>
                 </a>
-            </ul>
-            <ul>
                 <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1661-Average_Time_of_Process_per_Machine/leetcode-1661-Average_Time_of_Process_per_Machine-PostgreSQL.sql" alt="1661 - Average Time of Process per Machine - PostgreSQL - sql">
                     <li> Sql - PostgreSQL </li>
                 </a>
