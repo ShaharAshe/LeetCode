@@ -553,7 +553,12 @@
                 <li> 169 - Majority Element </li>
             </a>
             <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-169-Majority_Element/leetcode-169-Majority_Element.py" alt="169 - Majority Element - py">
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-169-Majority_Element/leetcode-169-Majority_Element.cpp" alt="169 - Majority Element - Cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-169-Majority_Element/leetcode-169-Majority_Element.py" alt="169 - Majority Element - Python">
                     <li> Python </li>
                 </a>
             </ul>
