@@ -330,7 +330,18 @@
                 <li> 68 - Text Justification </li>
             </a>
             <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-68-Text_Justification/leetcode-68-Text_Justification.cpp" alt="68 - Text Justification - cpp">
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-68-Text_Justification/leetcode-68-Text_Justification.cpp" alt="68 - Text Justification - Cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-69-Sqrt(x)" alt="69 - Sqrt(x)">
+                <li> 69 - Sqrt(x) </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-69-Sqrt(x)/leetcode-69-Sqrt_x.cpp" alt="69 - Sqrt(x) - Cpp">
                     <li> Cpp </li>
                 </a>
             </ul>
