@@ -2,7 +2,7 @@
     <div>
         <h1>
             <a href="https://leetcode.com/u/shahar_30/" title="Leetcode - shahar_30">LeetCode</a>&nbsp;
-            <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow.svg" title="LICENSE"/></a>
+            <a href="./LICENSE" title="LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="LICENSE"/></a>
         </h1>
     </div>
     <div>
