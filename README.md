@@ -308,7 +308,18 @@
                 <li> 55 - Jump Game </li>
             </a>
             <ul>
-                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-55-Jump_Game/leetcode-55-Jump_Game.cpp" alt="55 - Jump Game - cpp">
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-55-Jump_Game/leetcode-55-Jump_Game.cpp" alt="55 - Jump Game - Cpp">
+                    <li> Cpp </li>
+                </a>
+            </ul>
+        </div>
+        <br>
+        <div>
+            <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-56-Merge_Intervals" alt="56 - Merge Intervals">
+                <li> 56 - Merge Intervals </li>
+            </a>
+            <ul>
+                <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-56-Merge_Intervals/leetcode-56-Merge_Intervals.cpp" alt="56 - Merge Intervals - Cpp">
                     <li> Cpp </li>
                 </a>
             </ul>
