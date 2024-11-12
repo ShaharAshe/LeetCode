@@ -6,14 +6,14 @@
         </h1>
     </div>
     <div>
-        <p><b><a href="https://github.com/ShaharAshe/LeetCode" title="Leetcode - General">General</a></b></p>
+        <p><b><a href="./" title="Leetcode - General">General</a></b></p>
         <ul>
             <div>
-                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1-Two_Sum" title="1 - Two Sum">1 - Two Sum</a></li>
+                <li><a href="./leetcode-1-Two_Sum/" title="1 - Two Sum">1 - Two Sum</a></li>
                 <ul>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp" title="1 - Two Sum - Cpp">Cpp</a></li>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs" title="1 - Two Sum - C#">C#</a></li>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.py" title="1 - Two Sum - Python">Python</a></li>
+                    <li><a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp" title="1 - Two Sum - Cpp">Cpp</a></li>
+                    <li><a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs" title="1 - Two Sum - C#">C#</a></li>
+                    <li><a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.py" title="1 - Two Sum - Python">Python</a></li>
                 </ul>
             </div>
             <br>
