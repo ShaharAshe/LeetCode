@@ -1,163 +1,107 @@
 <div>
     <div>
         <h1>
-            <a href="https://leetcode.com/u/shahar_30/">LeetCode</a>&nbsp;
-            <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="LICENSE"/></a>
+            <a href="https://leetcode.com/u/shahar_30/" title="Leetcode - shahar_30">LeetCode</a>&nbsp;
+            <a href="./LICENSE" title="LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="LICENSE"/></a>
         </h1>
     </div>
     <div>
-        <a href="./" alt="General"><b><p> General </p></b></a>
+        <p><b><a href="https://github.com/ShaharAshe/LeetCode" title="Leetcode - General">General</a></b></p>
         <ul>
             <div>
-                <a href="./leetcode-1-Two_Sum" alt="1 - Two Sum">
-                    <li> 1 - Two Sum </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-1-Two_Sum" title="1 - Two Sum">1 - Two Sum</a></li>
                 <ul>
-                    <a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp" alt="1 - Two Sum - Cpp">
-                        <li> Cpp </li>
-                    </a>
-                    <a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs" alt="1 - Two Sum - C#">
-                        <li> C# </li>
-                    </a>
-                    <a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.py" alt="1 - Two Sum - Python">
-                        <li> Python </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp" title="1 - Two Sum - Cpp">Cpp</a></li>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs" title="1 - Two Sum - C#">C#</a></li>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-1-Two_Sum/leetcode-1-Two_Sum.py" title="1 - Two Sum - Python">Python</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2-Add_Two_Numbers">
-                    <li> 2 - Add Two Numbers </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2-Add_Two_Numbers">2 - Add Two Numbers</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-2-Add_Two_Numbers/leetcode-2-Add_Two_Numbers.cpp" alt="2 - Add Two Numbers - Cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-2-Add_Two_Numbers/leetcode-2-Add_Two_Numbers.cpp">Cpp</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-3-Longest_Substring_Without_Repeating_Characters">
-                    <li> 3 - Longest Substring Without Repeating Characters </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-3-Longest_Substring_Without_Repeating_Characters">3 - Longest Substring Without Repeating Characters</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.cpp" alt="3 - Longest Substring Without Repeating Characters - Cpp">
-                        <li> Cpp </li>
-                    </a>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.py" alt="3 - Longest Substring Without Repeating Characters - Python">
-                        <li> Python </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.cpp">Cpp</a></li>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.py">Python</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-6-Zigzag_Conversion" alt="6 - Zigzag Conversion">
-                    <li> 6 - Zigzag Conversion </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-6-Zigzag_Conversion">6 - Zigzag Conversion</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-6-Zigzag_Conversion/leetcode-6-Zigzag_Conversion-V1.cpp" alt="6 - Zigzag Conversion - cpp - V1">
-                        <li> Cpp - V1 </li>
-                    </a>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-6-Zigzag_Conversion/leetcode-6-Zigzag_Conversion-V2.cpp" alt="6 - Zigzag Conversion - Cpp - V2">
-                        <li> Cpp - V2 </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-6-Zigzag_Conversion/leetcode-6-Zigzag_Conversion-V1.cpp">Cpp - V1</a></li>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-6-Zigzag_Conversion/leetcode-6-Zigzag_Conversion-V2.cpp">Cpp - V2</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-8-String_to_Integer" alt="8 - String to Integer">
-                    <li> 8 - String to Integer </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-8-String_to_Integer">8 - String to Integer</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-8-String_to_Integer/leetcode-8-String_to_Integer.cpp" alt="8 - String to Integer - Cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-8-String_to_Integer/leetcode-8-String_to_Integer.cpp">Cpp</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-9-Palindrome_Number" alt="9 - Palindrome Number">
-                    <li> 9 - Palindrome Number </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-9-Palindrome_Number">9 - Palindrome Number</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-9-Palindrome_Number/leetcode-9-Palindrome_Number.py" alt="9 - Palindrome Number - Python">
-                        <li> Python </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-9-Palindrome_Number/leetcode-9-Palindrome_Number.py">Python</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-11-Container_With_Most_Water" alt="11 - Container With Most Water">
-                    <li> 11 - Container With Most Water </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-11-Container_With_Most_Water">11 - Container With Most Water</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-11-Container_With_Most_Water/leetcode-11-Container_With_Most_Water.cpp" alt="11 - Container With Most Water - Cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-11-Container_With_Most_Water/leetcode-11-Container_With_Most_Water.cpp">Cpp</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-12-Integer_to_Roman" alt="12 - Integer to Roman">
-                    <li> 12 - Integer to Roman </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-12-Integer_to_Roman">12 - Integer to Roman</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-12-Integer_to_Roman/leetcode-12-Integer_to_Roman.py" alt="12 - Integer to Roman - Python">
-                        <li> Python </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-12-Integer_to_Roman/leetcode-12-Integer_to_Roman.py">Python</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-13-Roman_to_Integer" alt="13 - Roman to Integer">
-                    <li> 13 - Roman to Integer </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-13-Roman_to_Integer">13 - Roman to Integer</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-13-Roman_to_Integer/leetcode-13-Roman_to_Integer.py" alt="13 - Roman to Integer - Python">
-                        <li> Python </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-13-Roman_to_Integer/leetcode-13-Roman_to_Integer.py">Python</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-14-Longest_Common_Prefix">
-                    <li> 14 - Longest Common Prefix </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-14-Longest_Common_Prefix">14 - Longest Common Prefix</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-14-Longest_Common_Prefix/leetcode-14-Longest_Common_Prefix.cpp" alt="14 - Longest Common Prefix - cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-14-Longest_Common_Prefix/leetcode-14-Longest_Common_Prefix.cpp">Cpp</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-15-3Sum" alt="15 - 3Sum">
-                    <li> 15 - 3Sum </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-15-3Sum">15 - 3Sum</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.java" alt="15 - 3Sum - Java">
-                        <li> Java </li>
-                    </a>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.py" alt="15 - 3Sum - Python">
-                        <li> Python </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.java">Java</a></li>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.py">Python</a></li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-20-Valid_Parentheses" alt="20 - Valid Parentheses">
-                    <li> 20 - Valid Parentheses </li>
-                </a>
+                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-20-Valid_Parentheses">20 - Valid Parentheses</a></li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses.cpp" alt="20 - Valid Parentheses - Cpp - V1">
-                        <li> Cpp - V1 </li>
-                    </a>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses_v2.cpp" alt="20 - Valid Parentheses - Cpp - V2">
-                        <li> Cpp - V2 </li>
-                    </a>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses.cpp">Cpp - V1</a></li>
+                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses_v2.cpp">Cpp - V2</a></li>
                 </ul>
             </div>
             <br>
+            <!--  ///////////////  -->
+            <!--  ///////////////  -->
+            <!--  ///////////////  -->
+            <!--  ///////////////  -->
             <div>
                 <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-21-Merge_Two_Sorted_Lists">
                     <li> 21 - Merge Two Sorted Lists </li>
