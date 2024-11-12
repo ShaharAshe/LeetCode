@@ -9,29 +9,51 @@
         <p><b><a href="./" title="Leetcode - General">General</a></b></p>
         <ul>
             <div>
-                <li><a href="./leetcode-1-Two_Sum/" title="1 - Two Sum">1 - Two Sum</a></li>
+                <li>
+                    <a href="./leetcode-1-Two_Sum/" title="1 - Two Sum">1 - Two Sum</a>
+                </li>
                 <ul>
-                    <li><a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp" title="1 - Two Sum - Cpp">Cpp</a></li>
-                    <li><a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs" title="1 - Two Sum - C#">C#</a></li>
-                    <li><a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.py" title="1 - Two Sum - Python">Python</a></li>
+                    <li>
+                        <a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp" title="1 - Two Sum - Cpp">Cpp</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs" title="1 - Two Sum - C#">C#</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-1-Two_Sum/leetcode-1-Two_Sum.py" title="1 - Two Sum - Python">Python</a>
+                    </li>
                 </ul>
             </div>
             <br>
             <div>
-                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2-Add_Two_Numbers">2 - Add Two Numbers</a></li>
+                <li>
+                    <a href="./leetcode-2-Add_Two_Numbers/" title="2 - Add Two Numbers">2 - Add Two Numbers</a>
+                </li>
                 <ul>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-2-Add_Two_Numbers/leetcode-2-Add_Two_Numbers.cpp">Cpp</a></li>
+                    <li>
+                        <a href="./leetcode-2-Add_Two_Numbers/leetcode-2-Add_Two_Numbers.cpp" title="2 - Add Two Numbers - Cpp">Cpp</a>
+                    </li>
                 </ul>
             </div>
             <br>
             <div>
-                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-3-Longest_Substring_Without_Repeating_Characters">3 - Longest Substring Without Repeating Characters</a></li>
+                <li>
+                    <a href="./leetcode-3-Longest_Substring_Without_Repeating_Characters/" title="3 - Longest Substring Without Repeating Characters">3 - Longest Substring Without Repeating Characters</a>
+                </li>
                 <ul>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.cpp">Cpp</a></li>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.py">Python</a></li>
+                    <li>
+                        <a href="./leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.cpp" title="3 - Longest Substring Without Repeating Characters - Cpp">Cpp</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.py" title="3 - Longest Substring Without Repeating Characters - Python">Python</a>
+                    </li>
                 </ul>
             </div>
             <br>
+            <!--  ///////////////  -->
+            <!--  ///////////////  -->
+            <!--  ///////////////  -->
+            <!--  ///////////////  -->
             <div>
                 <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-6-Zigzag_Conversion">6 - Zigzag Conversion</a></li>
                 <ul>
