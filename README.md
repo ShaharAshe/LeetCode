@@ -286,24 +286,38 @@
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-56-Merge_Intervals" title="56 - Merge Intervals">
-                    <li> 56 - Merge Intervals </li>
-                </a>
+                <li>
+                    <a href="./leetcode-56-Merge_Intervals/" title="56 - Merge Intervals">56 - Merge Intervals</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-56-Merge_Intervals/leetcode-56-Merge_Intervals.cpp" title="56 - Merge Intervals - Cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-56-Merge_Intervals/leetcode-56-Merge_Intervals.cpp" title="56 - Merge Intervals - Cpp">Cpp</a>
+                    </li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-58-Length_of_Last_Word">
-                    <li> 58 - Length of Last Word </li>
-                </a>
+                <li>
+                    <a href="./leetcode-57-Insert_Interval/" title="57 - Insert Interval">57 - Insert Interval</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-58-Length_of_Last_Word/leetcode-58-Length_of_Last_Word.cpp" title="58 - Length of Last Word - cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-57-Insert_Interval/leetcode-57-Insert_Interval-V1.cpp" title="57 - Insert Interval - V1 - Cpp">Cpp - V1</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-57-Insert_Interval/leetcode-57-Insert_Interval-V2.cpp" title="57 - Insert Interval - V2 - Cpp">Cpp - V2</a>
+                    </li>
+                </ul>
+            </div>
+            <br>
+            <div>
+                <li>
+                    <a href="./leetcode-58-Length_of_Last_Word/" title="58 - Length of Last Word">58 - Length of Last Word</a>
+                </li>
+                <ul>
+                    <li>
+                        <a href="./leetcode-58-Length_of_Last_Word/leetcode-58-Length_of_Last_Word.cpp" title="58 - Length of Last Word - cpp">Cpp</a>
+                    </li>
                 </ul>
             </div>
             <br>
