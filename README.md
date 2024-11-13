@@ -1132,24 +1132,35 @@
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2390-Removing_Stars_From_a_String" title="2390 - Removing Stars From a String">
-                    <li> 2390 - Removing Stars From a String </li>
-                </a>
+                <li>
+                    <a href="./leetcode-2390-Removing_Stars_From_a_String/" title="2390 - Removing Stars From a String">2390 - Removing Stars From a String</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-2390-Removing_Stars_From_a_String/leetcode-2390-Removing_Stars_From_a_String.cpp" title="2390 - Removing Stars From a String - Cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-2390-Removing_Stars_From_a_String/leetcode-2390-Removing_Stars_From_a_String.cpp" title="2390 - Removing Stars From a String - Cpp">Cpp</a>
+                    </li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2667-Create_Hello_World_Function">
-                    <li> 2667 - Create Hello World Function </li>
-                </a>
+                <li>
+                    <a href="./leetcode-2574-Left_and_Right_Sum_Differences/" title="2574 - Left and Right Sum Differences">2574 - Left and Right Sum Differences</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-2667-Create_Hello_World_Function/leetcode-2667-Create_Hello_World_Function.js" title="2667 - Create Hello World Function - JavaScript">
-                        <li> JavaScript </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-2574-Left_and_Right_Sum_Differences/leetcode-2574-Left_and_Right_Sum_Differences.cpp" title="2574 - Left and Right Sum Differences - Cpp">Cpp</a>
+                    </li>
+                </ul>
+            </div>
+            <br>
+            <div>
+                <li>
+                    <a href="./leetcode-2667-Create_Hello_World_Function/" title="2667 - Create Hello World Function">2667 - Create Hello World Function</a>
+                </li>
+                <ul>
+                    <li>
+                        <a href="./leetcode-2667-Create_Hello_World_Function/leetcode-2667-Create_Hello_World_Function.js" title="2667 - Create Hello World Function - JavaScript">JavaScript</a>
+                    </li>
                 </ul>
             </div>
             <br>
