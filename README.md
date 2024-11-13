@@ -796,7 +796,7 @@
             <br>
             <div>
                 <li>
-                    <a href="/leetcode-452-Minimum_Number_of_Arrows_to_Burst_Balloons/" title="452 - Minimum Number of Arrows to Burst Balloons">452 - Minimum Number of Arrows to Burst Balloons</a>
+                    <a href="./leetcode-452-Minimum_Number_of_Arrows_to_Burst_Balloons/" title="452 - Minimum Number of Arrows to Burst Balloons">452 - Minimum Number of Arrows to Burst Balloons</a>
                 </li>
                 <ul>
                     <li>
