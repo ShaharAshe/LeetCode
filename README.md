@@ -1176,13 +1176,13 @@
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-2696-Minimum_String_Length_After_Removing_Substrings">
-                    <li> 2696 - Minimum String Length After Removing Substrings </li>
-                </a>
+                <li>
+                    <a href="./leetcode-2696-Minimum_String_Length_After_Removing_Substrings/" title="2696 - Minimum String Length After Removing Substrings">2696 - Minimum String Length After Removing Substrings</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-2696-Minimum_String_Length_After_Removing_Substrings/leetcode-2696-Minimum_String_Length_After_Removing_Substrings.cpp" title="2696 - Minimum String Length After Removing Substrings - Cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-2696-Minimum_String_Length_After_Removing_Substrings/leetcode-2696-Minimum_String_Length_After_Removing_Substrings.cpp" title="2696 - Minimum String Length After Removing Substrings - Cpp">Cpp</a>
+                    </li>
                 </ul>
             </div>
             <br>
