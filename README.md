@@ -781,27 +781,38 @@
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-392-Is_Subsequence">
-                    <li> 392 - Is Subsequence </li>
-                </a>
+                <li>
+                    <a href="./leetcode-392-Is_Subsequence/" title="392 - Is Subsequence">392 - Is Subsequence</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.cpp" title="392 - Is Subsequence - Cpp">
-                        <li> Cpp </li>
-                    </a>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.py" title="392 - Is Subsequence - python">
-                        <li> Python </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.cpp" title="392 - Is Subsequence - Cpp">Cpp</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.py" title="392 - Is Subsequence - python">Python</a>
+                    </li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-509-Fibonacci_Number">
-                    <li> 509 - Fibonacci Number </li>
-                </a>
+                <li>
+                    <a href="/leetcode-452-Minimum_Number_of_Arrows_to_Burst_Balloons/" title="452 - Minimum Number of Arrows to Burst Balloons">452 - Minimum Number of Arrows to Burst Balloons</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-509-Fibonacci_Number/leetcode-509-Fibonacci_Number.c" title="509 - Fibonacci Number - C">
-                        <li> C </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-452-Minimum_Number_of_Arrows_to_Burst_Balloons/leetcode-452-Minimum_Number_of_Arrows_to_Burst_Balloons.cpp" title="452 - Minimum Number of Arrows to Burst Balloons - Cpp">Cpp</a>
+                    </li>
+                </ul>
+            </div>
+            <br>
+            <div>
+                <li>
+                    <a href="./leetcode-509-Fibonacci_Number/" title="509 - Fibonacci Number">509 - Fibonacci Number</a>
+                </li>
+                <ul>
+                    <li>
+                        <a href="./leetcode-509-Fibonacci_Number/leetcode-509-Fibonacci_Number.c" title="509 - Fibonacci Number - C">C</a>
+                    </li>
                 </ul>
             </div>
             <br>
