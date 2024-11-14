@@ -731,24 +731,35 @@
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-274-H-Index" title="274 - H-Index">
-                    <li> 274 - H-Index </li>
-                </a>
+                <li>
+                    <a href="./leetcode-274-H-Index/" title="274 - H-Index">274 - H-Index</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-274-H-Index/leetcode-274-H-Index.cpp" title="274 - H-Index - cpp">
-                        <li>Cpp</li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-274-H-Index/leetcode-274-H-Index.cpp" title="274 - H-Index - cpp">Cpp</a>
+                    </li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-289-Game_of_Life" title="289 - Game of Life">
-                    <li> 289 - Game of Life </li>
-                </a>
+                <li>
+                    <a href="./leetcode-278-First_Bad_Version/" title="278 - First Bad Version">274 - H-Index</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-289-Game_of_Life/leetcode-289-Game_of_Life.cpp" title="289 - Game of Life - Cpp">
-                        <li>Cpp</li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-278-First_Bad_Version/leetcode-278-First_Bad_Version.cpp" title="278 - First Bad Version - cpp">Cpp</a>
+                    </li>
+                </ul>
+            </div>
+            <br>
+            <div>
+                <li>
+                    <a href="./leetcode-289-Game_of_Life/" title="289 - Game of Life">289 - Game of Life</a>
+                </li>
+                <ul>
+                    <li>
+                        <a href="./leetcode-289-Game_of_Life/leetcode-289-Game_of_Life.cpp" title="289 - Game of Life - Cpp">Cpp</a>
+                    </li>
                 </ul>
             </div>
             <br>
