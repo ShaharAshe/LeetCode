@@ -743,7 +743,7 @@
             <br>
             <div>
                 <li>
-                    <a href="./leetcode-278-First_Bad_Version/" title="278 - First Bad Version">274 - H-Index</a>
+                    <a href="./leetcode-278-First_Bad_Version/" title="278 - First Bad Version">278 - First Bad Version</a>
                 </li>
                 <ul>
                     <li>
