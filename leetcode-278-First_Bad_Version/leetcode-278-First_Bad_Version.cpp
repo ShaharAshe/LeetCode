@@ -1,7 +1,5 @@
 #include <iostream>
 #include <cstdlib>
-#include <string>
-#include <vector>
 
 
 // The API isBadVersion is defined for you.
