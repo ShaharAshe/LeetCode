@@ -106,33 +106,44 @@
             </div>
             <br>
             <div>
-                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-15-3Sum">15 - 3Sum</a></li>
+                <li>
+                    <a href="./leetcode-15-3Sum/" title="15 - 3Sum">15 - 3Sum</a>
+                </li>
                 <ul>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.java">Java</a></li>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-15-3Sum/leetcode_15_3Sum.py">Python</a></li>
+                    <li>
+                        <a href="./leetcode-15-3Sum/leetcode_15_3Sum.java" title="15 - 3Sum - Java">Java</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-15-3Sum/leetcode_15_3Sum.py" title="15 - 3Sum - Python">Python</a>
+                    </li>
                 </ul>
             </div>
             <br>
             <div>
-                <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-20-Valid_Parentheses">20 - Valid Parentheses</a></li>
+                <li>
+                    <a href="./leetcode-20-Valid_Parentheses/" title="20 - Valid Parentheses">20 - Valid Parentheses</a>
+                </li>
                 <ul>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses.cpp">Cpp - V1</a></li>
-                    <li><a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses_v2.cpp">Cpp - V2</a></li>
+                    <li>
+                        <a href="./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses.cpp" title="20 - Valid Parentheses - Cpp - V1">Cpp - V1</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses_v2.cpp" title="20 - Valid Parentheses - Cpp - V2">Cpp - V2</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses.py" title="20 - Valid Parentheses - Python">Python</a>
+                    </li>
                 </ul>
             </div>
             <br>
-            <!--  ///////////////  -->
-            <!--  ///////////////  -->
-            <!--  ///////////////  -->
-            <!--  ///////////////  -->
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-21-Merge_Two_Sorted_Lists">
-                    <li> 21 - Merge Two Sorted Lists </li>
-                </a>
+                <li>
+                    <a href="./leetcode-21-Merge_Two_Sorted_Lists/" title="21 - Merge Two Sorted Lists">21 - Merge Two Sorted Lists</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-21-Merge_Two_Sorted_Lists/leetcode-21-Merge_Two_Sorted_Lists.cpp" title="21 - Merge Two Sorted Lists - Cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-21-Merge_Two_Sorted_Lists/leetcode-21-Merge_Two_Sorted_Lists.cpp" title="21 - Merge Two Sorted Lists - Cpp">Cpp</a>
+                    </li>
                 </ul>
             </div>
             <br>
