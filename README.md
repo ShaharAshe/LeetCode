@@ -50,10 +50,6 @@
                 </ul>
             </div>
             <br>
-            <!--  ///////////////  -->
-            <!--  ///////////////  -->
-            <!--  ///////////////  -->
-            <!--  ///////////////  -->
             <div>
                 <li><a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-6-Zigzag_Conversion">6 - Zigzag Conversion</a></li>
                 <ul>
@@ -125,13 +121,16 @@
                 </li>
                 <ul>
                     <li>
-                        <a href="./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses.cpp" title="20 - Valid Parentheses - Cpp - V1">Cpp - V1</a>
+                        <a href="./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses_V1.cpp" title="20 - Valid Parentheses - Cpp - V1">Cpp - V1</a>
                     </li>
                     <li>
                         <a href="./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses_v2.cpp" title="20 - Valid Parentheses - Cpp - V2">Cpp - V2</a>
                     </li>
                     <li>
-                        <a href="./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses.py" title="20 - Valid Parentheses - Python">Python</a>
+                        <a href="./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses - V1.py" title="20 - Valid Parentheses - Python - V1">Python - V1</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses - V2.py" title="20 - Valid Parentheses - Python - V2">Python - V2</a>
                     </li>
                 </ul>
             </div>
