@@ -1,5 +1,3 @@
-/* -- Id = 20 -- */
-
 #include <cstdlib>
 #include <iostream>
 #include <string>
