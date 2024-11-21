@@ -343,27 +343,41 @@
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-69-Sqrt(x)" title="69 - Sqrt(x)">
-                    <li> 69 - Sqrt(x) </li>
-                </a>
+                <li>
+                    <a href="./leetcode-69-Sqrt(x)/" title="69 - Sqrt(x)">69 - Sqrt(x)</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-69-Sqrt(x)/leetcode-69-Sqrt_x.cpp" title="69 - Sqrt(x) - Cpp">
-                        <li> Cpp </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-69-Sqrt(x)/leetcode-69-Sqrt_x.cpp" title="69 - Sqrt(x) - Cpp">Cpp</a>
+                    </li>
                 </ul>
             </div>
             <br>
             <div>
-                <a href="https://github.com/ShaharAshe/LeetCode/tree/main/leetcode-73-Set_Matrix_Zeroes" title="73 - Set Matrix Zeroes">
-                    <li> 73 - Set Matrix Zeroes </li>
-                </a>
+                <li>
+                    <a href="./leetcode-71-Simplify_Path/" title="71 - Simplify Path">71 - Simplify Path</a>
+                </li>
                 <ul>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-73-Set_Matrix_Zeroes/leetcode-73-Set_Matrix_Zeroes-V1.cpp" title="73 - Set Matrix Zeroes - Cpp - V1">
-                        <li> Cpp - V1 </li>
-                    </a>
-                    <a href="https://github.com/ShaharAshe/LeetCode/blob/main/leetcode-73-Set_Matrix_Zeroes/leetcode-73-Set_Matrix_Zeroes-V2.cpp" title="73 - Set Matrix Zeroes - Cpp - V2">
-                        <li> Cpp - V2 </li>
-                    </a>
+                    <li>
+                        <a href="./leetcode-71-Simplify_Path/leetcode-71-Simplify_Path-V1.cpp" title="71 - Simplify Path - Cpp - V1">Cpp - V1</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-71-Simplify_Path/leetcode-71-Simplify_Path-V2.cpp" title="71 - Simplify Path - Cpp - V2">Cpp - V2</a>
+                    </li>
+                </ul>
+            </div>
+            <br>
+            <div>
+                <li>
+                    <a href="./leetcode-73-Set_Matrix_Zeroes/" title="73 - Set Matrix Zeroes">73 - Set Matrix Zeroes</a>
+                </li>
+                <ul>
+                    <li>
+                        <a href="./leetcode-73-Set_Matrix_Zeroes/leetcode-73-Set_Matrix_Zeroes-V1.cpp" title="73 - Set Matrix Zeroes - Cpp - V1">Cpp - V1</a>
+                    </li>
+                    <li>
+                        <a href="./leetcode-73-Set_Matrix_Zeroes/leetcode-73-Set_Matrix_Zeroes-V2.cpp" title="73 - Set Matrix Zeroes - Cpp - V2">Cpp - V2</a>
+                    </li>
                 </ul>
             </div>
             <br>
