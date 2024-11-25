@@ -11,32 +11,29 @@ public:
         char opt = 0;
         for(; i<s.size(); ++i)
         {
-            if('0'<=s[i]&&s[i]<='9')
+            bool is_num = '0'<=s[i]&&s[i]<='9';
+            if(is_num)
             {
                 temp_num = ((temp_num*10) + (s[i]-'0'));
             }
-            if(!('0'<=s[i]&&s[i]<='9') || i==(s.size()-1))
+            if(!is_num || i==(s.size()-1))
             {
                 if(s[i]=='(') {
                     temp_num = calculate(s, ++i);
                     ++i;
                 }
-                if(opt==0) {
-                    if(i==(s.size()-1) || s[i]!=' ') {
-                        res=temp_num;
-                    } else {
-                        continue;
-                    }
-                } else if(i!=(s.size()-1) && s[i]==' ') {
+                if(opt==0 && (i==(s.size()-1) || s[i]!=' ')) {
+                    res=temp_num;
+                } else if(i<(s.size()-1) && s[i]==' ') {
                     continue;
                 } else if(opt =='+') {
                     res+=temp_num;
                 } else if(opt =='-') {
                     res-=temp_num;
                 }
-                opt=0;
-                temp_num=0;
                 if(s[i]=='+'||s[i]=='-') {
+                    opt=0;
+                    temp_num=0;
                     opt = s[i];
                 } else if(s[i]==')') {
                     return res;
