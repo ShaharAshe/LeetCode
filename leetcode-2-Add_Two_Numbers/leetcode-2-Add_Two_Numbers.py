@@ -9,8 +9,8 @@ class ListNode:
 
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        res = None
-        temp_pos = None
+        res: Optional[ListNode] = None
+        temp_pos: Optional[ListNode] = None
         while l1 or l2:
             if not res:
                 res = ListNode(0)
@@ -32,12 +32,12 @@ class Solution:
 
 
 if __name__ == "__main__":
-    l1 = ListNode(2, ListNode(4, ListNode(3)))
-    l2 = ListNode(5, ListNode(6, ListNode(4)))
+    l1: Optional[ListNode] = ListNode(2, ListNode(4, ListNode(3)))
+    l2: Optional[ListNode] = ListNode(5, ListNode(6, ListNode(4)))
     
-    res = Solution().addTwoNumbers(l1, l2)
+    res: Optional[ListNode] = Solution().addTwoNumbers(l1, l2)
 
-    temp_pos = res
+    temp_pos: Optional[ListNode] = res
     print("[", end="")
     while temp_pos:
         print(temp_pos.val, end="")
