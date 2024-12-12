@@ -15,36 +15,34 @@ class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         if(k==1) return head;
-        return reverseKGroup(head, head, k);
-    }
-
-private:
-    ListNode* reverseKGroup(ListNode* head, ListNode* pos, int k) {
-        auto temp_pos = pos;
+        
+        auto temp_pos = head;
         auto count_k = k;
         while(count_k)
         {
-            if(!temp_pos) return pos;
+            if(!temp_pos) return head;
             temp_pos = temp_pos->next;
             --count_k;
         }
-        auto left = pos,
+
+        auto left = head,
              mid = left->next,
              right = mid->next;
         count_k = (k-1);
         while(count_k)
         {
             left->next = right;
-            mid->next = pos;
+            mid->next = head;
 
-            pos = mid;
+            head = mid;
             mid = right;
             right = (right)?right->next:nullptr;
             --count_k;
         }
-        auto res = reverseKGroup(head, mid, k);
+
+        auto res = reverseKGroup(mid, k);
         left->next = res;
-        return pos;
+        return head;
     }
 };
 
