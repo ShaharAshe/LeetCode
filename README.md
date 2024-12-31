@@ -31,6 +31,7 @@
 >>> - ![Orange Placeholder](https://placehold.co/15x15/ffa500/ffa500.png) [56 - Merge Intervals](./leetcode-56-Merge_Intervals/) / [Cpp](./leetcode-56-Merge_Intervals/leetcode-56-Merge_Intervals.cpp)
 >>> - ![Orange Placeholder](https://placehold.co/15x15/ffa500/ffa500.png) [57 - Insert Interval](./leetcode-57-Insert_Interval/) / [Cpp - V1](./leetcode-57-Insert_Interval/leetcode-57-Insert_Interval-V1.cpp) / [Cpp - V2](./leetcode-57-Insert_Interval/leetcode-57-Insert_Interval-V2.cpp)
 >>> - ![Green Placeholder](https://placehold.co/15x15/00ff00/00ff00.png) [58 - Length of Last Word](./leetcode-58-Length_of_Last_Word/) / [Cpp](./leetcode-58-Length_of_Last_Word/leetcode-58-Length_of_Last_Word.cpp)
+>>> - ![Orange Placeholder](https://placehold.co/15x15/ffa500/ffa500.png) [61 - Rotate List](./leetcode-61-Rotate_List/) / [Cpp](./leetcode-61-Rotate_List/leetcode-61-Rotate_List.cpp)
 >>> - ![Red Placeholder](https://placehold.co/15x15/ff0000/ff0000.png) [68 - Text Justification](./leetcode-68-Text_Justification/) / [Cpp](./leetcode-68-Text_Justification/leetcode-68-Text_Justification.cpp)
 >>> - ![Green Placeholder](https://placehold.co/15x15/00ff00/00ff00.png) [69 - Sqrt(x)](./leetcode-69-Sqrt(x)/) / [Cpp](./leetcode-69-Sqrt(x)/leetcode-69-Sqrt_x.cpp)
 >>> - ![Orange Placeholder](https://placehold.co/15x15/ffa500/ffa500.png) [71 - Simplify Path](./leetcode-71-Simplify_Path/) / [Cpp - V1](./leetcode-71-Simplify_Path/leetcode-71-Simplify_Path-V1.cpp) / [Cpp - V2](./leetcode-71-Simplify_Path/leetcode-71-Simplify_Path-V2.cpp)
