@@ -1,6 +1,6 @@
 > # [LeetCode](https://leetcode.com/u/shahar_30/) [![LICENSE](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
 >> ![easy](https://img.shields.io/badge/56-green)
->> ![medium](https://img.shields.io/badge/54-orange)
+>> ![medium](https://img.shields.io/badge/55-orange)
 >> ![hard](https://img.shields.io/badge/10-red)
 >> 
 >> [**General**](./)
