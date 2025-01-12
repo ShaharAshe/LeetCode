@@ -5,16 +5,12 @@
 class Solution {
 public:
     int removeElement(std::vector<int>& nums, int val) {
-        int res = nums.size(),
-            j = res-1;
+        int res = nums.size();
         for(int i = 0; i<res; ++i)
         {
             if(nums[i] == val)
             {
-                int temp_val = nums[i];
-                nums[i--] = nums[j];
-                nums[j--] = temp_val;
-                --res;
+                nums[i--] = nums[(res--)-1];
             }
         }
         return res;
