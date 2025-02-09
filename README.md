@@ -1,8 +1,8 @@
 > # [LeetCode](https://leetcode.com/u/shahar_30/) [![LICENSE](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
 >> ![easy](https://img.shields.io/badge/58-green)
->> ![medium](https://img.shields.io/badge/57-orange)
+>> ![medium](https://img.shields.io/badge/58-orange)
 >> ![hard](https://img.shields.io/badge/10-red)
->> ![total](https://img.shields.io/badge/total:-125-blue)
+>> ![total](https://img.shields.io/badge/total:-126-blue)
 >> 
 >> [**General**](./)
 >>> - ![Green Placeholder](https://placehold.co/15x15/00ff00/00ff00.png) [1 - Two Sum](./leetcode-1-Two_Sum/) / [Cpp](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp) / [C#](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs) / [Python](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.py)
