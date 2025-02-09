@@ -33,7 +33,7 @@ public class leetcode_106_Construct_Binary_Tree_from_Inorder_and_Postorder_Trave
     public static void main(String[] args) {
         int[] inorder = new int[]{9,3,15,20,7};
         int[] postorder = new int[]{9,15,7,20,3};
-        TreeNode root = new Solution().buildTree(new int[]{9,3,15,20,7}, new int[]{9,15,7,20,3});
+        TreeNode root = new Solution().buildTree(inorder, postorder);
         
         // print
         if (root == null) {
