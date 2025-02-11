@@ -1,8 +1,6 @@
 #include <iostream>
 #include <cstdlib>
 
-
-
 struct TreeNode {
     int val;
     TreeNode *left;

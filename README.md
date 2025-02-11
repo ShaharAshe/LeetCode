@@ -2,14 +2,14 @@
 >
 > | Difficulty | Count |
 > |------------|-------|
-> | ✅ Easy | 58 |
+> | ✅ Easy | 59 |
 > | ⚡ Medium | 58 |
 > | 🔥 Hard | 10 |
-> | ⭐ **Total** | **126** |
+> | ⭐ **Total** | **127** |
 >
 > #
 >
-> ![C++](https://img.shields.io/badge/C%2B%2B-101-blue?logo=c%2B%2B&logoColor=white)
+> ![C++](https://img.shields.io/badge/C%2B%2B-102-blue?logo=c%2B%2B&logoColor=white)
 > ![C](https://img.shields.io/badge/C-4-gray?logo=c&logoColor=white)
 > ![Python](https://img.shields.io/badge/Python-22-yellow?logo=python&logoColor=white)
 > ![Java](https://img.shields.io/badge/Java-7-red?logo=java&logoColor=white)
