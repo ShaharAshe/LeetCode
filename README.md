@@ -3,13 +3,13 @@
 > | Difficulty | Count |
 > |------------|-------|
 > | ✅ Easy | 59 |
-> | ⚡ Medium | 58 |
+> | ⚡ Medium | 59 |
 > | 🔥 Hard | 10 |
-> | ⭐ **Total** | **127** |
+> | ⭐ **Total** | **128** |
 >
 > #
 >
-> ![C++](https://img.shields.io/badge/C%2B%2B-102-blue?logo=c%2B%2B&logoColor=white)
+> ![C++](https://img.shields.io/badge/C%2B%2B-103-blue?logo=c%2B%2B&logoColor=white)
 > ![C](https://img.shields.io/badge/C-4-gray?logo=c&logoColor=white)
 > ![Python](https://img.shields.io/badge/Python-22-yellow?logo=python&logoColor=white)
 > ![Java](https://img.shields.io/badge/Java-7-red?logo=java&logoColor=white)
@@ -77,6 +77,7 @@
 >>> - ⚡ [122 - Best Time to Buy and Sell Stock II](./leetcode-122-Best_Time_to_Buy_and_Sell_Stock_II/) / [Cpp](./leetcode-122-Best_Time_to_Buy_and_Sell_Stock_II/leetcode-122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
 >>> - ✅ [125 - Valid Palindrome](./leetcode-125-Valid_Palindrome/) / [Cpp](./leetcode-125-Valid_Palindrome/leetcode-125-Valid_Palindrome.cpp) / [Python](./leetcode-125-Valid_Palindrome/leetcode-125-Valid_Palindrome.py)
 >>> - ⚡ [128 - Longest Consecutive Sequence](./leetcode-128-Longest_Consecutive_Sequence/) / [Cpp](./leetcode-128-Longest_Consecutive_Sequence/leetcode-128-Longest_Consecutive_Sequence.cpp)
+>>> - ⚡ [129 - Sum Root to Leaf Numbers](./leetcode-129-Sum_Root_to_Leaf_Numbers/) / [Cpp](./leetcode-129-Sum_Root_to_Leaf_Numbers/leetcode-129-Sum_Root_to_Leaf_Numbers.cpp)
 >>> - ⚡ [134 - Gas Station](./leetcode-134-Gas_Station/) / [Cpp](./leetcode-134-Gas_Station/leetcode-134-Gas_Station.cpp)
 >>> - 🔥 [135 - Candy](./leetcode-135-Candy/) / [Cpp](./leetcode-135-Candy/leetcode-135-Candy.cpp)
 >>> - ⚡ [138 - Copy List with Random Pointer](./leetcode-138-Copy_List_with_Random_Pointer/) / [Cpp](./leetcode-138-Copy_List_with_Random_Pointer/leetcode-138-Copy_List_with_Random_Pointer.cpp)
