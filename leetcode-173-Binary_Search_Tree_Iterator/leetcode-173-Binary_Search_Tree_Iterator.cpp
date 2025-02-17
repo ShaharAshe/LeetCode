@@ -18,7 +18,7 @@ public:
     
     int next() {
         if(this->_inVals.size()<=(this->_currIndex)) return -1;
-        return _inVals[this->_currIndex++];
+        return this->_inVals[this->_currIndex++];
     }
     
     bool hasNext() {
