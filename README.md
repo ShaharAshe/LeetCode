@@ -2,17 +2,18 @@
 >
 > | Difficulty | Count |
 > |------------|-------|
-> | ✅ Easy | 59 |
-> | ⚡ Medium | 60 |
-> | 🔥 Hard | 11 |
-> | ⭐ **Total** | **130** |
+> | ✅ Easy | 61 |
+> | ⚡ Medium | 66 |
+> | 🔥 Hard | 12 |
+> | ⭐ **Total** | **139** |
 >
 > #
 >
-> ![C++](https://img.shields.io/badge/C%2B%2B-105-blue?logo=c%2B%2B&logoColor=white)
-> ![C](https://img.shields.io/badge/C-4-gray?logo=c&logoColor=white)
-> ![Python](https://img.shields.io/badge/Python-22-yellow?logo=python&logoColor=white)
+> ![C++](https://img.shields.io/badge/C%2B%2B-114-blue?logo=c%2B%2B&logoColor=white)
+> ![C](https://img.shields.io/badge/C-6-gray?logo=c&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-26-yellow?logo=python&logoColor=white)
 > ![Java](https://img.shields.io/badge/Java-7-red?logo=java&logoColor=white)
+> ![Go](https://img.shields.io/badge/Go-1-00ADD8?logo=go&logoColor=white)
 > ![C#](https://img.shields.io/badge/C%23-1-purple?logo=csharp&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-1-f7df1e?logo=javascript&logoColor=black)
 > ![MySQL](https://img.shields.io/badge/MySQL-13-4479A1?logo=mysql&logoColor=white)
@@ -22,17 +23,17 @@
 > ---
 >
 >> [**General**](./)
->>> - ✅ [1 - Two Sum](./leetcode-1-Two_Sum/) / [Cpp](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp) / [C#](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs) / [Python](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.py)
->>> - ⚡ [2 - Add Two Numbers](./leetcode-2-Add_Two_Numbers/) / [Cpp](./leetcode-2-Add_Two_Numbers/leetcode-2-Add_Two_Numbers.cpp) / [python](./leetcode-2-Add_Two_Numbers/leetcode-2-Add_Two_Numbers.py)
+>>> - ✅ [1 - Two Sum](./leetcode-1-Two_Sum/) / [Cpp](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cpp) / [C#](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.cs) / [Go](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.go) / [Python](./leetcode-1-Two_Sum/leetcode-1-Two_Sum.py)
+>>> - ⚡ [2 - Add Two Numbers](./leetcode-2-Add_Two_Numbers/) / [Cpp](./leetcode-2-Add_Two_Numbers/leetcode-2-Add_Two_Numbers.cpp) / [Python](./leetcode-2-Add_Two_Numbers/leetcode-2-Add_Two_Numbers.py)
 >>> - ⚡ [3 - Longest Substring Without Repeating Characters](./leetcode-3-Longest_Substring_Without_Repeating_Characters/) / [Cpp](./leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.cpp) / [Python](./leetcode-3-Longest_Substring_Without_Repeating_Characters/leetcode-3-Longest_Substring_Without_Repeating_Characters.py)
 >>> - ⚡ [6 - Zigzag Conversion](./leetcode-6-Zigzag_Conversion/) / [Cpp - V1](./leetcode-6-Zigzag_Conversion/leetcode-6-Zigzag_Conversion-V1.cpp) / [Cpp - V2](./leetcode-6-Zigzag_Conversion/leetcode-6-Zigzag_Conversion-V2.cpp)
 >>> - ⚡ [8 - String to Integer](./leetcode-8-String_to_Integer/) / [Cpp](./leetcode-8-String_to_Integer/leetcode-8-String_to_Integer.cpp)
 >>> - ✅ [9 - Palindrome Number](./leetcode-9-Palindrome_Number/) / [Python](./leetcode-9-Palindrome_Number/leetcode-9-Palindrome_Number.py)
->>> - ⚡ [11 - Container With Most Water](./leetcode-11-Container_With_Most_Water/) / [Cpp](./leetcode-11-Container_With_Most_Water/leetcode-11-Container_With_Most_Water.cpp)
+>>> - ⚡ [11 - Container With Most Water](./leetcode-11-Container_With_Most_Water/) / [Cpp](./leetcode-11-Container_With_Most_Water/leetcode-11-Container_With_Most_Water.cpp) / [Python](./leetcode-11-Container_With_Most_Water/leetcode-11-Container_With_Most_Water.py)
 >>> - ⚡ [12 - Integer to Roman](./leetcode-12-Integer_to_Roman/) / [Python](./leetcode-12-Integer_to_Roman/leetcode-12-Integer_to_Roman.py)
 >>> - ✅ [13 - Roman to Integer](./leetcode-13-Roman_to_Integer/) / [Cpp](./leetcode-13-Roman_to_Integer/leetcode-13-Roman_to_Integer.cpp) / [Python](./leetcode-13-Roman_to_Integer/leetcode-13-Roman_to_Integer.py)
 >>> - ✅ [14 - Longest Common Prefix](./leetcode-14-Longest_Common_Prefix/) / [Cpp](./leetcode-14-Longest_Common_Prefix/leetcode-14-Longest_Common_Prefix.cpp)
->>> - ⚡ [15 - 3Sum](./leetcode-15-3Sum/) / [Java](./leetcode-15-3Sum/leetcode_15_3Sum.java) / [Python](./leetcode-15-3Sum/leetcode_15_3Sum.py)
+>>> - ⚡ [15 - 3Sum](./leetcode-15-3Sum/) / [Cpp](./leetcode-15-3Sum/leetcode_15_3Sum.cpp) / [Java](./leetcode-15-3Sum/leetcode_15_3Sum.java) / [Python](./leetcode-15-3Sum/leetcode_15_3Sum.py)
 >>> - ⚡ [19 - Remove Nth Node From End of List](./leetcode-19-Remove_Nth_Node_From_End_of_List/) / [Cpp](./leetcode-19-Remove_Nth_Node_From_End_of_List/leetcode-19-Remove_Nth_Node_From_End_of_List.cpp)
 >>> - ✅ [20 - Valid Parentheses](./leetcode-20-Valid_Parentheses/) / [Cpp - V1](./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses_V1.cpp) / [Cpp - V2](./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses_v2.cpp) / [Python - V1](./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses%20-%20V1.py) / [Python - V2](./leetcode-20-Valid_Parentheses/leetcode-20-Valid_Parentheses%20-%20V2.py)
 >>> - ✅ [21 - Merge Two Sorted Lists](./leetcode-21-Merge_Two_Sorted_Lists/) / [Cpp](./leetcode-21-Merge_Two_Sorted_Lists/leetcode-21-Merge_Two_Sorted_Lists.cpp) / [Python](./leetcode-21-Merge_Two_Sorted_Lists/leetcode-21-Merge_Two_Sorted_Lists.py)
@@ -41,10 +42,11 @@
 >>> - ✅ [27 - Remove Element](./leetcode-27-Remove_Element/) / [C](./leetcode-27-Remove_Element/leetcode-27-Remove_Element.c) / [Cpp - V1](./leetcode-27-Remove_Element/leetcode-27-Remove_Element-V1.cpp) / [Cpp - V2](./leetcode-27-Remove_Element/leetcode-27-Remove_Element-V2.cpp)
 >>> - ✅ [28 - Find the Index of the First Occurrence in a String](./leetcode-28-Find_the_Index_of_the_First_Occurrence_in_a_String/) / [Cpp](./leetcode-28-Find_the_Index_of_the_First_Occurrence_in_a_String/leetcode-28-Find_the_Index_of_the_First_Occurrence_in_a_String.cpp)
 >>> - 🔥 [30 - Substring with Concatenation of All Words](./leetcode-30-Substring_with_Concatenation_of_All_Words/) / [Cpp](./leetcode-30-Substring_with_Concatenation_of_All_Words/leetcode-30-Substring_with_Concatenation_of_All_Words.cpp)
+>>> - ✅ [35 - Search Insert Position](./leetcode-35_Search_Insert_Position/) / [Cpp](./leetcode-35_Search_Insert_Position/leetcode-35_Search_Insert_Position.cpp)
 >>> - ⚡ [36 - Valid Sudoku](./leetcode-36-Valid_Sudoku/) / [Cpp](./leetcode-36-Valid_Sudoku/leetcode-36-Valid_Sudoku.cpp) / [Python](./leetcode-36-Valid_Sudoku/leetcode-36-Valid_Sudoku.py)
 >>> - ⚡ [40 - Combination Sum II](./leetcode-40-Combination_Sum_II/) / [Cpp](./leetcode-40-Combination_Sum_II/leetcode-40-Combination_Sum_II.cpp)
 >>> - 🔥 [41 - First Missing Positive](./leetcode-41-First_Missing_Positive/) / [Cpp](./leetcode-41-First_Missing_Positive/leetcode-41-First_Missing_Positive.cpp)
->>> - 🔥 [42 - Trapping Rain Water](./leetcode-42-Trapping_Rain_Water/) / [Cpp](./leetcode-42-Trapping_Rain_Water/leetcode-42-Trapping_Rain_Water.cpp)
+>>> - 🔥 [42 - Trapping Rain Water](./leetcode-42-Trapping_Rain_Water/) / [Cpp](./leetcode-42-Trapping_Rain_Water/leetcode-42-Trapping_Rain_Water.cpp) / [Python](./leetcode-42-Trapping_Rain_Water/leetcode-42-Trapping_Rain_Water.py)
 >>> - ⚡ [45 - Jump Game II](./leetcode-45-Jump_Game_II/) / [Cpp](./leetcode-45-Jump_Game_II/leetcode-45-Jump_Game_II.cpp)
 >>> - ⚡ [48 - Rotate Image](./leetcode-48-Rotate_Image/) / [Cpp](./leetcode-48-Rotate_Image/leetcode-48-Rotate_Image.cpp)
 >>> - ⚡ [49 - Group Anagrams](./leetcode-49-Group_Anagrams/) / [Cpp](./leetcode-49-Group_Anagrams/leetcode-49-Group_Anagrams.cpp)
@@ -61,8 +63,9 @@
 >>> - 🔥 [76 - Minimum Window Substring](./leetcode-76-Minimum_Window_Substring/) / [Cpp](./leetcode-76-Minimum_Window_Substring/leetcode-76-Minimum_Window_Substring.cpp)
 >>> - ⚡ [80 - Remove Duplicates from Sorted Array II](./leetcode-80-Remove_Duplicates_from_Sorted_Array_II/) / [Cpp](./leetcode-80-Remove_Duplicates_from_Sorted_Array_II/leetcode-80-Remove_Duplicates_from_Sorted_Array_II.cpp)
 >>> - ⚡ [82 - Remove Duplicates from Sorted List II](./leetcode-82-Remove_Duplicates_from_Sorted_List_II/) / [Cpp](./leetcode-82-Remove_Duplicates_from_Sorted_List_II/leetcode-82-Remove_Duplicates_from_Sorted_List_II.cpp)
+>>> - 🔥 [84 - Largest Rectangle in Histogram](./leetcode-84-Largest_Rectangle_in_Histogram/) / [Cpp](./leetcode-84-Largest_Rectangle_in_Histogram/leetcode-84-Largest_Rectangle_in_Histogram.cpp)
 >>> - ⚡ [86 - Partition List](./leetcode-86-Partition_List/) / [Cpp](./leetcode-86-Partition_List/leetcode-86-Partition_List.cpp)
->>> - ✅ [88 - Merge Sorted Array](./leetcode-88-Merge_Sorted_Array/) / [Cpp](./leetcode-88-Merge_Sorted_Array/leetcode-88-Merge_Sorted_Array.cpp)
+>>> - ✅ [88 - Merge Sorted Array](./leetcode-88-Merge_Sorted_Array/) / [Cpp](./leetcode-88-Merge_Sorted_Array/leetcode-88-Merge_Sorted_Array.cpp) / [Python](./leetcode-88-Merge_Sorted_Array/leetcode-88-Merge_Sorted_Array.py)
 >>> - ⚡ [92 - Reverse Linked List II](./leetcode-92-Reverse_Linked_List_II/) / [Cpp](./leetcode-92-Reverse_Linked_List_II/leetcode-92-Reverse_Linked_List_II.cpp)
 >>> - ✅ [94 - Binary Tree Inorder Traversal](./leetcode-94-Binary_Tree_Inorder_Traversal/) / [Cpp](./leetcode-94-Binary_Tree_Inorder_Traversal/leetcode-94-Binary_Tree_Inorder_Traversal.cpp)
 >>> - ✅ [100 - Same Tree](./leetcode-100-Same_Tree/) / [Cpp](./leetcode-100-Same_Tree/leetcode-100-Same_Tree.cpp) / [Python](./leetcode-100-Same_Tree/leetcode-100-Same_Tree.py) / [Java](./leetcode-100-Same_Tree/leetcode_100_Same_Tree.java)
@@ -73,7 +76,7 @@
 >>> - ✅ [112 - Path Sum](./leetcode-112-Path_Sum/) / [Cpp](./leetcode-112-Path_Sum/leetcode-112-Path_Sum.cpp)
 >>> - ⚡ [114 - Flatten Binary Tree to Linked List](./leetcode-114-Flatten_Binary_Tree_to_Linked_List/) / [Cpp](./leetcode-114-Flatten_Binary_Tree_to_Linked_List/leetcode-114-Flatten_Binary_Tree_to_Linked_List.cpp)
 >>> - ⚡ [117 - Populating Next Right Pointers in Each Node II](./leetcode-117-Populating_Next_Right_Pointers_in_Each_Node_II/) / [Java](./leetcode-117-Populating_Next_Right_Pointers_in_Each_Node_II/leetcode_117_Populating_Next_Right_Pointers_in_Each_Node_II.java)
->>> - ✅ [121 - Best Time to Buy and Sell Stock](./leetcode-121-Best_Time_to_Buy_and_Sell_Stock/) / [Cpp](./leetcode-121-Best_Time_to_Buy_and_Sell_Stock/leetcode-121-Best_Time_to_Buy_and_Sell_Stock.cpp)
+>>> - ✅ [121 - Best Time to Buy and Sell Stock](./leetcode-121-Best_Time_to_Buy_and_Sell_Stock/) / [Cpp](./leetcode-121-Best_Time_to_Buy_and_Sell_Stock/leetcode-121-Best_Time_to_Buy_and_Sell_Stock.cpp) / [Python](./leetcode-121-Best_Time_to_Buy_and_Sell_Stock/leetcode-121-Best_Time_to_Buy_and_Sell_Stock.py)
 >>> - ⚡ [122 - Best Time to Buy and Sell Stock II](./leetcode-122-Best_Time_to_Buy_and_Sell_Stock_II/) / [Cpp](./leetcode-122-Best_Time_to_Buy_and_Sell_Stock_II/leetcode-122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
 >>> - 🔥 [124 - Binary Tree Maximum Path Sum](./leetcode-124-Binary_Tree_Maximum_Path_Sum/) / [Cpp](./leetcode-124-Binary_Tree_Maximum_Path_Sum/leetcode-124-Binary_Tree_Maximum_Path_Sum.cpp)
 >>> - ✅ [125 - Valid Palindrome](./leetcode-125-Valid_Palindrome/) / [Cpp](./leetcode-125-Valid_Palindrome/leetcode-125-Valid_Palindrome.cpp) / [Python](./leetcode-125-Valid_Palindrome/leetcode-125-Valid_Palindrome.py)
@@ -87,6 +90,7 @@
 >>> - ⚡ [146 - LRU Cache](./leetcode-146-LRU_Cache/) / [Cpp](./leetcode-146-LRU_Cache/leetcode-146-LRU_Cache.cpp)
 >>> - ⚡ [150 - Evaluate Reverse Polish Notation](./leetcode-150-Evaluate_Reverse_Polish_Notation/) / [Cpp](./leetcode-150-Evaluate_Reverse_Polish_Notation/leetcode-150-Evaluate_Reverse_Polish_Notation.cpp)
 >>> - ⚡ [151 - Reverse Words in a String](./leetcode-151-Reverse_Words_in_a_String/) / [Cpp](./leetcode-151-Reverse_Words_in_a_String/leetcode-151-Reverse_Words_in_a_String.cpp)
+>>> - ⚡ [155 - Min Stack](./leetcode-155-Min_Stack/) / [Cpp](./leetcode-155-Min_Stack/leetcode-155-Min_Stack.cpp)
 >>> - ⚡ [167 - Two Sum II - Input Array Is Sorted](./leetcode-167-Two_Sum_II_-_Input_Array_Is_Sorted/) / [Cpp](./leetcode-167-Two_Sum_II_-_Input_Array_Is_Sorted/leetcode-167-Two_Sum_II_-_Input_Array_Is_Sorted.cpp)
 >>> - ✅ [169 - Majority Element](./leetcode-169-Majority_Element/) / [Cpp](./leetcode-169-Majority_Element/leetcode-169-Majority_Element.cpp) / [Python](./leetcode-169-Majority_Element/leetcode-169-Majority_Element.py)
 >>> - ⚡ [173 - Binary Search Tree Iterator](./leetcode-173-Binary_Search_Tree_Iterator/) / [Cpp](./leetcode-173-Binary_Search_Tree_Iterator/leetcode-173-Binary_Search_Tree_Iterator.cpp)
@@ -94,11 +98,12 @@
 >>> - ✅ [195 - Tenth Line](./leetcode-195-Tenth_Line/) / [Bash](./leetcode-195-Tenth_Line/leetcode-195-Tenth_Line.sh)
 >>> - ✅ [197 - Rising Temperature](./leetcode-197-Rising_Temperature/) / [MySQL](./leetcode-197-Rising_Temperature/leetcode-197-Rising_Temperature-MySQL.sql) / [PostgreSQL](./leetcode-197-Rising_Temperature/leetcode-197-Rising_Temperature-PostgreSQL.sql)
 >>> - ⚡ [199 - Binary Tree Right Side View](./leetcode-199-Binary_Tree_Right_Side_View/) / [Cpp](./leetcode-199-Binary_Tree_Right_Side_View/leetcode-199-Binary_Tree_Right_Side_View.cpp)
->>> - ⚡ [200 - Number of Islands](./leetcode-200-Number_of_Islands/) / [Cpp](./leetcode-200-Number_of_Islands/leetcode-200-Number_of_Islands.cpp)
+>>> - ⚡ [200 - Number of Islands](./leetcode-200-Number_of_Islands/) / [C](./leetcode-200-Number_of_Islands/---%20leetcode-200-Number_of_Islands%20---.c) / [Cpp](./leetcode-200-Number_of_Islands/leetcode-200-Number_of_Islands.cpp)
 >>> - ✅ [202 - Happy Number](./leetcode-202-Happy_Number/) / [Cpp](./leetcode-202-Happy_Number/leetcode-202-Happy_Number.cpp)
 >>> - ✅ [205 - Isomorphic Strings](./leetcode-205-Isomorphic_Strings/) / [Cpp](./leetcode-205-Isomorphic_Strings/leetcode-205-Isomorphic_Strings.cpp)
 >>> - ⚡ [209 - Minimum Size Subarray_Sum](./leetcode-209-Minimum_Size_Subarray_Sum/) / [Cpp](./leetcode-209-Minimum_Size_Subarray_Sum/leetcode-209-Minimum_Size_Subarray_Sum.cpp) / [Python](./leetcode-209-Minimum_Size_Subarray_Sum/leetcode-209-Minimum_Size_Subarray_Sum.py)
 >>> - ⚡ [215 - Kth Largest Element in an Array](./leetcode-215-Kth_Largest_Element_in_an_Array/) / [Python](./leetcode-215-Kth_Largest_Element_in_an_Array/leetcode-215-Kth_Largest_Element_in_an_Array.py)
+>>> - ✅ [217 - Contains Duplicate](./leetcode-217-Contains_Duplicate/) / [Cpp](./leetcode-217-Contains_Duplicate/leetcode-217-Contains_Duplicate.cpp)
 >>> - ✅ [219 - Contains Duplicate II](./leetcode-219-Contains_Duplicate_II/) / [Cpp](./leetcode-219-Contains_Duplicate_II/leetcode-219-Contains_Duplicate_II.cpp)
 >>> - 🔥 [224 - Basic Calculator](./leetcode-224-Basic_Calculator/) / [Cpp](./leetcode-224-Basic_Calculator/leetcode-224-Basic_Calculator.cpp)
 >>> - ✅ [226 - Invert Binary Tree](./leetcode-226-Invert_Binary_Tree/) / [Cpp](./leetcode-226-Invert_Binary_Tree/leetcode-226-Invert_Binary_Tree.cpp)
@@ -107,10 +112,12 @@
 >>> - ⚡ [238 - Product of Array Except Self](./leetcode-238-Product_of_Array_Except_Self/) / [Cpp](./leetcode-238-Product_of_Array_Except_Self/leetcode-238-Product_of_Array_Except_Self.cpp)
 >>> - ✅ [242 - Valid Anagram](./leetcode-242-Valid_Anagram/) / [Python](./leetcode-242-Valid_Anagram/leetcode-242-Valid_Anagram.py)
 >>> - ⚡ [264 - Ugly Number II](./leetcode-264-Ugly_Number_II/) / [Cpp](./leetcode-264-Ugly_Number_II/leetcode-264-Ugly_Number_II.cpp)
+>>> - ⚡ [271 - Encode and Decode Strings](./leetcode-271-Encode_and_Decode_Strings/) / [Cpp](./leetcode-271-Encode_and_Decode_Strings/leetcode-271-Encode_and_Decode_Strings.cpp)
 >>> - ⚡ [274 - H-Index](./leetcode-274-H-Index/) / [Cpp](./leetcode-274-H-Index/leetcode-274-H-Index.cpp)
 >>> - ✅ [278 - First Bad Version](./leetcode-278-First_Bad_Version/) / [Cpp](./leetcode-278-First_Bad_Version/leetcode-278-First_Bad_Version.cpp)
 >>> - ⚡ [289 - Game of Life](./leetcode-289-Game_of_Life/) / [Cpp](./leetcode-289-Game_of_Life/leetcode-289-Game_of_Life.cpp)
 >>> - ✅ [290 - Word Pattern](./leetcode-290-Word_Pattern/) / [Cpp](./leetcode-290-Word_Pattern/leetcode-290-Word_Pattern.cpp)
+>>> - ⚡ [347 - Top K Frequent Elements](./leetcode-347-Top_K_Frequent_Elements/) / [Cpp](./leetcode-347-Top_K_Frequent_Elements/leetcode-347-Top_K_Frequent_Elements.cpp)
 >>> - ⚡ [380 - Insert Delete GetRandom](./leetcode-380-Insert_Delete_GetRandom/) / [Cpp - V1](./leetcode-380-Insert_Delete_GetRandom/leetcode-380-Insert_Delete_GetRandom-V1.cpp) / [Cpp - V2](./leetcode-380-Insert_Delete_GetRandom/leetcode-380-Insert_Delete_GetRandom-V2.cpp)
 >>> - ✅ [383 - Ransom Note](./leetcode-383-Ransom_Note/) / [Cpp](./leetcode-383-Ransom_Note/leetcode-383-Ransom_Note.cpp) / [Python](./leetcode-383-Ransom_Note/leetcode-383-Ransom_Note.py)
 >>> - ✅ [392 - Is Subsequence](./leetcode-392-Is_Subsequence/) / [Cpp](./leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.cpp) / [Python](./leetcode-392-Is_Subsequence/leetcode-392-Is_Subsequence.py)
@@ -126,9 +133,12 @@
 >>> - ⚡ [650 - 2 Keys Keyboard](./leetcode-650-2_Keys_Keyboard/) / [Python](./leetcode-650-2_Keys_Keyboard/leetcode-650-2_Keys_Keyboard.py)
 >>> - ✅ [703 - Kth Largest Element in a Stream](./leetcode-703-Kth_Largest_Element_in_a_Stream/) / [Cpp - V1](./leetcode-703-Kth_Largest_Element_in_a_Stream/leetcode-703-Kth_Largest_Element_in_a_Stream-V1.cpp) / [Cpp - V2](./leetcode-703-Kth_Largest_Element_in_a_Stream/leetcode-703-Kth_Largest_Element_in_a_Stream-V2.cpp)
 >>> - 🔥 [719 - Find K-th Smallest Pair Distance](./leetcode-719-Find_K-th_Smallest_Pair_Distance/) / [Cpp](./leetcode-719-Find_K-th_Smallest_Pair_Distance/leetcode-719-Find_K-th_Smallest_Pair_Distance.cpp)
+>>> - ⚡ [739 - Daily Temperatures](./leetcode-739-Daily_Temperatures/) / [Cpp](./leetcode-739-Daily_Temperatures/leetcode-739-Daily_Temperatures.cpp)
 >>> - ⚡ [840 - Magic Squares In Grid](./leetcode-840-Magic_Squares_In_Grid/) / [Cpp](./leetcode-840-Magic_Squares_In_Grid/leetcode-840-Magic_Squares_In_Grid.cpp)
+>>> - ⚡ [853 - Car Fleet](./leetcode-853-Car-Fleet/) / [Cpp](./leetcode-853-Car-Fleet/leetcode-853-Car-Fleet.cpp)
 >>> - ✅ [860 - Lemonade Change](./leetcode-860-Lemonade_Change/) / [Cpp](./leetcode-860-Lemonade_Change/leetcode-860-Lemonade_Change.cpp)
 >>> - ⚡ [885 - Spiral Matrix III](./leetcode-885-Spiral_Matrix_III/) / [Cpp](./leetcode-885-Spiral_Matrix_III/leetcode-885-Spiral_Matrix_III.cpp)
+>>> - ⚡ [909 - Snakes and Ladders](./leetcode-909-Snakes_and_Ladders/) / [C](./leetcode-909-Snakes_and_Ladders/---%20leetcode-909-Snakes_and_Ladders%20---.c)
 >>> - ⚡ [959 - Regions Cut By Slashes](./leetcode-959-Regions_Cut_By_Slashes/) / [Cpp - V1](./leetcode-959-Regions_Cut_By_Slashes/leetcode-959-Regions_Cut_By_Slashes-V1.cpp) / [Cpp - V2](./leetcode-959-Regions_Cut_By_Slashes/leetcode-959-Regions_Cut_By_Slashes-V2.cpp)
 >>> - ✅ [1068 - Product Sales Analysis I](./leetcode-1068-Product_Sales_Analysis_I/) / [Sql](./leetcode-1068-Product_Sales_Analysis_I/leetcode-1068-Product_Sales_Analysis_I.sql)
 >>> - ✅ [1148 - Article Views I](./leetcode-1148-Article_Views_I/) / [Sql](./leetcode-1148-Article_Views_I/leetcode-1148-Article_Views_I.sql)
