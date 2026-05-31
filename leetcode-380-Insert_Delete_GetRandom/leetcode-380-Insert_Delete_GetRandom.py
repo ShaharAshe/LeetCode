@@ -34,29 +34,11 @@ class RandomizedSet:
 
 
 if __name__ == "__main__":
-    # randomized_set = RandomizedSet()
-    # print(f'{randomized_set.insert(1) = }')
-    # print(f'{randomized_set.remove(2) = }')
-    # print(f'{randomized_set.insert(2) = }')
-    # print(f'{randomized_set.getRandom() = }')
-    # print(f'{randomized_set.remove(1) = }')
-    # print(f'{randomized_set.insert(2) = }')
-    # print(f'{randomized_set.getRandom() = }')
-
-
     randomized_set = RandomizedSet()
-    print(f'{randomized_set.remove(0) = }')
-    print(f'{randomized_set.remove(0) = }')
-    print(f'{randomized_set.insert(0) = }')
+    print(f'{randomized_set.insert(1) = }')
+    print(f'{randomized_set.remove(2) = }')
+    print(f'{randomized_set.insert(2) = }')
     print(f'{randomized_set.getRandom() = }')
-    print(f'{randomized_set.remove(0) = }')
-    print(f'{randomized_set.insert(0) = }')
-
-
-    # randomized_set = RandomizedSet()
-    # print(f'{randomized_set.insert(0) = }')
-    # print(f'{randomized_set.insert(1) = }')
-    # print(f'{randomized_set.remove(0) = }')
-    # print(f'{randomized_set.insert(2) = }')
-    # print(f'{randomized_set.remove(1) = }')
-    # print(f'{randomized_set.getRandom() = }')
+    print(f'{randomized_set.remove(1) = }')
+    print(f'{randomized_set.insert(2) = }')
+    print(f'{randomized_set.getRandom() = }')
