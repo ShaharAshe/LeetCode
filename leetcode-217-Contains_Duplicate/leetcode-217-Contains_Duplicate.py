@@ -1,5 +1,5 @@
 class Solution:
-    def hasDuplicate(self, nums: list[int]) -> bool:
+    def containsDuplicate(self, nums: list[int]) -> bool:
         seen: set[int] = set()
         for num in nums:
             if num in seen:
@@ -9,7 +9,7 @@ class Solution:
 
 
 if __name__ == "__main__":
-    nums: list[int] = [1, 2, 3, 3]
+    nums: list[int] = [1,2,3,1]
 
-    result = Solution().hasDuplicate(nums)
+    result = Solution().containsDuplicate(nums)
     print(result)
